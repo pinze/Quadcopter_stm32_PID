@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : GCT_USB3065-XX-00-A_REVE.dra                  )
+(    Software Version : 17.4S021                                      )
+(    Date/Time        : Sat Nov 13 22:52:28 2021                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/patri/OneDrive/桌面/1111PCB-2/quadcopter OrCad2
+    Name      = gct_usb3065-xx-00-a_reve.psm
+    User      = patri
+    Machine   = DESKTOP-SKS0O3V
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

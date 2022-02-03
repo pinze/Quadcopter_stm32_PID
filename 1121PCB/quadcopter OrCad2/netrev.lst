@@ -1,0 +1,91 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : PCB1.brd                                      )
+(    Software Version : 17.4S021                                      )
+(    Date/Time        : Tue Nov 16 18:12:20 2021                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'C:/Users/patri/OneDrive/桌面/1116PCB/quadcopter OrCad2/allegro'
+Design Directory:            'C:/Users/patri/OneDrive/桌面/1116PCB/quadcopter OrCad2'
+Old design name:             'C:/Users/patri/OneDrive/桌面/1116PCB/quadcopter OrCad2/PCB1.brd'
+New design name:             'C:/Users/patri/OneDrive/桌面/1116PCB/quadcopter OrCad2/PCB1.brd'
+
+CmdLine: netrev -$ -i C:/Users/patri/OneDrive/桌面/1116PCB/quadcopter OrCad2/allegro -y 1 -h -q netrev_constraint_report.xml C:/Users/patri/OneDrive/桌面/1116PCB/quadcopter OrCad2/#Taaaaat09728.tmp
+
+------ Preparing to read pst files ------
+
+Starting to read C:/Users/patri/OneDrive/桌面/1116PCB/quadcopter OrCad2/allegro/pstchip.dat 
+   Finished reading C:/Users/patri/OneDrive/桌面/1116PCB/quadcopter OrCad2/allegro/pstchip.dat (00:00:00.01)
+Starting to read C:/Users/patri/OneDrive/桌面/1116PCB/quadcopter OrCad2/allegro/pstxprt.dat 
+   Finished reading C:/Users/patri/OneDrive/桌面/1116PCB/quadcopter OrCad2/allegro/pstxprt.dat (00:00:00.00)
+Starting to read C:/Users/patri/OneDrive/桌面/1116PCB/quadcopter OrCad2/allegro/pstxnet.dat 
+   Finished reading C:/Users/patri/OneDrive/桌面/1116PCB/quadcopter OrCad2/allegro/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           c:/cadence/cadence/cadence_spb_17.4-2019/share/local/pcb/modules 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           c:/cadence/cadence/cadence_spb_17.4-2019/share/local/pcb/symbols 
+           c:/cadence/cadence/cadence_spb_17.4-2019/share/pcb/pcb_lib/symbols 
+           c:/cadence/cadence/cadence_spb_17.4-2019/share/pcb/allegrolib/symbols 
+           C:/Users/patri/OneDrive/桌面/1101PCB/quadcopter OrCad2 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           c:/cadence/cadence/cadence_spb_17.4-2019/share/local/pcb/padstacks 
+           c:/cadence/cadence/cadence_spb_17.4-2019/share/pcb/pcb_lib/symbols 
+           c:/cadence/cadence/cadence_spb_17.4-2019/share/pcb/allegrolib/symbols 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Nov 16 18:12:20 2021
+   DESIGN NAME : 'QUADCOPTER'
+   PACKAGING ON Sep 12 2021 13:49:44
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:00:52
+elapsed time  0:00:00
+

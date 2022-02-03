@@ -1,0 +1,193 @@
+
+(EDIF
+  (rename ECS_45_80_45_32_45_4X "ECS-80-32-4X")
+  (EDIFVersion 2 0 0)
+  (EDIFLevel 0)
+  (keywordMap (keywordLevel 0))
+  (status
+    (written
+      (timestamp 2019 11 20 02 42 34)
+      (dataOrigin "SnapEDA snapeda.comCopyright - This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0")
+      (program "SnapEDA Converter")
+    )
+  )
+  (library
+    (rename ECS_45_80_45_32_45_4X "ECS-80-32-4X")
+    (EDIFLevel 0)
+    (technology
+      (numberDefinition
+        (scale 1 (e 254 -9) (unit DISTANCE))
+        (gridMap 1 1)
+      )
+      (figureGroup PINNAME
+        (cornerType TRUNCATE)
+        (endType TRUNCATE)
+        (pathWidth 0)
+        (textHeight 4811)
+      )
+      (figureGroup PINNUMBER
+        (cornerType TRUNCATE)
+        (endType TRUNCATE)
+        (textHeight 9000)
+        (pathWidth 0)
+      )
+      (figureGroup PORT
+        (pathWidth 1000)
+        (textHeight 9000)
+      )
+      (figureGroup PARTBODY
+        (pathWidth 1000)
+        (borderWidth 1000)
+        (textHeight 6000)
+      )
+    )
+    (cell
+      (rename ECS_45_80_45_32_45_4X "ECS-80-32-4X")
+      (cellType GENERIC)
+      (view
+        (rename NORMAL "Normal")
+        (viewType SCHEMATIC)
+        (interface
+          (designator "Y")
+          (property (rename VALUE "Value") (string "ECS-80-32-4X"))
+          (port
+            (rename &1 "1")
+            (designator "1")
+            (property
+              (rename TYPE "Type")
+              (string "PAS")
+            )
+            (property
+              (rename ORDER "Order")
+              (integer 0)
+              (owner "OrCAD")
+            )
+          )
+          (port
+            (rename &2 "2")
+            (designator "2")
+            (property
+              (rename TYPE "Type")
+              (string "PAS")
+            )
+            (property
+              (rename ORDER "Order")
+              (integer 1)
+              (owner "OrCAD")
+            )
+          )
+          (symbol
+            (boundingBox (rectangle (pt -20000 -7000) (pt 20000 7000)))
+            (portImplementation
+              (name &2)
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt 20000 0)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt 20000 0)
+                    (pt 10000 0)
+                  )
+                )
+              )
+            )
+            (portImplementation
+              (name &1)
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt -20000 0)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt -20000 0)
+                    (pt -10000 0)
+                  )
+                )
+              )
+            )
+            (figure PARTBODY
+              (path (pointList (pt 4000 0) (pt 10000 0)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -10000 0) (pt -4000 0)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -1500 6000) (pt -1500 -6000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -1500 -6000) (pt 1500 -6000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 1500 -6000) (pt 1500 6000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 1500 6000) (pt -1500 6000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 4000 7000) (pt 4000 -7000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -4000 7000) (pt -4000 -7000)))
+            )
+            (keywordDisplay DESIGNATOR
+              (display PARTBODY
+                (justify LOWERLEFT)
+                (orientation R0)
+                (origin (pt -18019 9007))
+              )
+            )
+            (propertyDisplay VALUE
+              (display PARTBODY
+                (justify LOWERLEFT)
+                (orientation R0)
+                (origin (pt -17019 -18019))
+              )
+            )
+            (property (rename PCB_Footprint "PCB Footprint") (string "XTAL_ECS-80-32-4X"))
+            (property
+              (rename MP "MP")
+              (string
+              (stringDisplay "ECS-80-32-4X"))
+            )
+            (property
+              (rename Availability "Availability")
+              (string
+              (stringDisplay "Unavailable"))
+            )
+            (property
+              (rename Description "Description")
+              (string
+              (stringDisplay "
+HC-49/U-S Microprocessor Crystals 8MHz 32pF
+"))
+            )
+            (property
+              (rename MF "MF")
+              (string
+              (stringDisplay "ECS Inc."))
+            )
+            (property
+              (rename Package "Package")
+              (string
+              (stringDisplay "HC-49/US ECS International"))
+            )
+            (property
+              (rename Price "Price")
+              (string
+              (stringDisplay "None"))
+            )
+          )
+        )
+      )
+    )
+  )
+)

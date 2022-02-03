@@ -1,0 +1,177 @@
+A!NET_NAME!REFDES!PIN_NUMBER!FUNC_LOGICAL_PATH!COMP_DEVICE_TYPE!FUNC_SCH_SIZE!FUNC_HAS_FIXED_SIZE!FUNC_DES!PIN_CDS_PINID!PIN_TERMINATION!PIN_TERM_IDENT!PIN_NET_SHORT!PIN_XNET_PINS!
+J!C:/Users/patri/OneDrive/桌面/quadcopter OrCad2/PCB1.brd!Fri Oct 29 01:05:38 2021!0.0000!0.0000!594.0000!420.0000!0.0001!millimeters!QUADCOPTER!10.400000 mil!2!UP TO DATE!
+S!+5V!PAD1!1!@quadcopter.\quadcopter project\(sch_1):ins51471@misc.\pinpad.normal\(chips)!PINPAD_ESC_PINPAD!!!F30!!!!!!
+S!GND!PAD2!1!@quadcopter.\quadcopter project\(sch_1):ins51583@misc.\pinpad.normal\(chips)!PINPAD_ESC_PINPAD!!!F29!!!!!!
+S!N06124!R9!1!@quadcopter.\quadcopter project\(sch_1):ins25267@quadcopter.\r_7.normal\(chips)!R_7_RESC2012X60N_20!!!F16!!!!!!
+S!PA11!R9!2!@quadcopter.\quadcopter project\(sch_1):ins25267@quadcopter.\r_7.normal\(chips)!R_7_RESC2012X60N_20!!!F16!!!!!!
+S!GND_POWER!C10!1!@quadcopter.\quadcopter project\(sch_1):ins3273@analog.\c.normal\(chips)!C_CAPC2012X140N_100N!!!F50!!!!!!
+S!VCC_3.3!C10!2!@quadcopter.\quadcopter project\(sch_1):ins3273@analog.\c.normal\(chips)!C_CAPC2012X140N_100N!!!F50!!!!!!
+S!GND_POWER!C11!1!@quadcopter.\quadcopter project\(sch_1):ins3299@analog.\c.normal\(chips)!C_CAPC2012X140N_100N!!!F49!!!!!!
+S!VCC_3.3!C11!2!@quadcopter.\quadcopter project\(sch_1):ins3299@analog.\c.normal\(chips)!C_CAPC2012X140N_100N!!!F49!!!!!!
+S!GND_POWER!C3!1!@quadcopter.\quadcopter project\(sch_1):ins3335@analog.\c.normal\(chips)!C_CAPC2012X140N_100N!!!F48!!!!!!
+S!VCC_3.3!C3!2!@quadcopter.\quadcopter project\(sch_1):ins3335@analog.\c.normal\(chips)!C_CAPC2012X140N_100N!!!F48!!!!!!
+S!GND_POWER!C4!1!@quadcopter.\quadcopter project\(sch_1):ins3351@analog.\c.normal\(chips)!C_CAPC2012X140N_100N!!!F47!!!!!!
+S!VCC_3.3!C4!2!@quadcopter.\quadcopter project\(sch_1):ins3351@analog.\c.normal\(chips)!C_CAPC2012X140N_100N!!!F47!!!!!!
+S!GND_POWER!C12!1!@quadcopter.\quadcopter project\(sch_1):ins2989@analog.\c.normal\(chips)!C_CAPC2012X140N_20PF!!!F46!!!!!!
+S!PC15!C12!2!@quadcopter.\quadcopter project\(sch_1):ins2989@analog.\c.normal\(chips)!C_CAPC2012X140N_20PF!!!F46!!!!!!
+S!GND_POWER!C13!1!@quadcopter.\quadcopter project\(sch_1):ins1491@analog.\c.normal\(chips)!C_CAPC2012X140N_20PF!!!F45!!!!!!
+S!OSCIN!C13!2!@quadcopter.\quadcopter project\(sch_1):ins1491@analog.\c.normal\(chips)!C_CAPC2012X140N_20PF!!!F45!!!!!!
+S!GND_POWER!C14!1!@quadcopter.\quadcopter project\(sch_1):ins1509@analog.\c.normal\(chips)!C_CAPC2012X140N_20PF!!!F44!!!!!!
+S!OSCOUT!C14!2!@quadcopter.\quadcopter project\(sch_1):ins1509@analog.\c.normal\(chips)!C_CAPC2012X140N_20PF!!!F44!!!!!!
+S!GND_POWER!C9!1!@quadcopter.\quadcopter project\(sch_1):ins2973@analog.\c.normal\(chips)!C_CAPC2012X140N_20PF!!!F43!!!!!!
+S!PC14!C9!2!@quadcopter.\quadcopter project\(sch_1):ins2973@analog.\c.normal\(chips)!C_CAPC2012X140N_20PF!!!F43!!!!!!
+S!VCC_3.3!C15!1!@quadcopter.\quadcopter project\(sch_1):ins11583@analog.\c.normal\(chips)!C_CAPC2012X140N_0.01UF!!!F42!!!!!!
+S!GND!C15!2!@quadcopter.\quadcopter project\(sch_1):ins11583@analog.\c.normal\(chips)!C_CAPC2012X140N_0.01UF!!!F42!!!!!!
+S!N11835!C16!1!@quadcopter.\quadcopter project\(sch_1):ins11815@analog.\c.normal\(chips)!C_CAPC2012X140N_0.1UF!!!F41!!!!!!
+S!N11831!C16!2!@quadcopter.\quadcopter project\(sch_1):ins11815@analog.\c.normal\(chips)!C_CAPC2012X140N_0.1UF!!!F41!!!!!!
+S!GND!C18!1!@quadcopter.\quadcopter project\(sch_1):ins12296@analog.\c.normal\(chips)!C_CAPC2012X140N_0.1UF!!!F40!!!!!!
+S!VCC_3.3!C18!2!@quadcopter.\quadcopter project\(sch_1):ins12296@analog.\c.normal\(chips)!C_CAPC2012X140N_0.1UF!!!F40!!!!!!
+S!GND!C21!1!@quadcopter.\quadcopter project\(sch_1):ins14381@analog.\c.normal\(chips)!C_CAPC2012X140N_0.1UF!!!F39!!!!!!
+S!VCC_3.3!C21!2!@quadcopter.\quadcopter project\(sch_1):ins14381@analog.\c.normal\(chips)!C_CAPC2012X140N_0.1UF!!!F39!!!!!!
+S!GND!C17!1!@quadcopter.\quadcopter project\(sch_1):ins11986@analog.\c.normal\(chips)!C_CAPC2012X140N_220PF!!!F38!!!!!!
+S!N12082!C17!2!@quadcopter.\quadcopter project\(sch_1):ins11986@analog.\c.normal\(chips)!C_CAPC2012X140N_220PF!!!F38!!!!!!
+S!GND!C19!1!@quadcopter.\quadcopter project\(sch_1):ins12739@analog.\c.normal\(chips)!C_CAPC2012X140N_4.7UF!!!F37!!!!!!
+S!+5V!C19!2!@quadcopter.\quadcopter project\(sch_1):ins12739@analog.\c.normal\(chips)!C_CAPC2012X140N_4.7UF!!!F37!!!!!!
+S!GND!C2!1!@quadcopter.\quadcopter project\(sch_1):ins8162@analog.\c.normal\(chips)!C_CAPC2012X140N_1UF!!!F36!!!!!!
+S!RESET!C2!2!@quadcopter.\quadcopter project\(sch_1):ins8162@analog.\c.normal\(chips)!C_CAPC2012X140N_1UF!!!F36!!!!!!
+S!VCC_3.3!R15!1!@quadcopter.\quadcopter project\(sch_1):ins24627@quadcopter.\r_7.normal\(chips)!R_7_RESC2012X60N_510!!!F22!!!!!!
+S!N239790!R15!2!@quadcopter.\quadcopter project\(sch_1):ins24627@quadcopter.\r_7.normal\(chips)!R_7_RESC2012X60N_510!!!F22!!!!!!
+S!N256680!R16!1!@quadcopter.\quadcopter project\(sch_1):ins25658@quadcopter.\r_7.normal\(chips)!R_7_RESC2012X60N_510!!!F21!!!!!!
+S!PB12!R16!2!@quadcopter.\quadcopter project\(sch_1):ins25658@quadcopter.\r_7.normal\(chips)!R_7_RESC2012X60N_510!!!F21!!!!!!
+S!N245580!R5!1!@quadcopter.\quadcopter project\(sch_1):ins24548@quadcopter.\r_7.normal\(chips)!R_7_RESC2012X60N_510!!!F20!!!!!!
+S!PC13!R5!2!@quadcopter.\quadcopter project\(sch_1):ins24548@quadcopter.\r_7.normal\(chips)!R_7_RESC2012X60N_510!!!F20!!!!!!
+S!PA12!R10!1!@quadcopter.\quadcopter project\(sch_1):ins25209@quadcopter.\r_7.normal\(chips)!R_7_RESC2012X60N_1.5K!!!F28!!!!!!
+S!+5V!R10!2!@quadcopter.\quadcopter project\(sch_1):ins25209@quadcopter.\r_7.normal\(chips)!R_7_RESC2012X60N_1.5K!!!F28!!!!!!
+S!OSCIN!R111!1!@quadcopter.\quadcopter project\(sch_1):ins1556@quadcopter.\r_8.normal\(chips)!R_8_RESC2012X60N_1M!!!F26!!!!!!
+S!OSCOUT!R111!2!@quadcopter.\quadcopter project\(sch_1):ins1556@quadcopter.\r_8.normal\(chips)!R_8_RESC2012X60N_1M!!!F26!!!!!!
+S!VCC_3.3!R12!1!@quadcopter.\quadcopter project\(sch_1):ins24693@quadcopter.\r_7.normal\(chips)!R_7_RESC2012X60N_4.7K!!!F25!!!!!!
+S!N11932!R12!2!@quadcopter.\quadcopter project\(sch_1):ins24693@quadcopter.\r_7.normal\(chips)!R_7_RESC2012X60N_4.7K!!!F25!!!!!!
+S!N11925!R13!1!@quadcopter.\quadcopter project\(sch_1):ins24765@quadcopter.\r_7.normal\(chips)!R_7_RESC2012X60N_4.7K!!!F24!!!!!!
+S!VCC_3.3!R13!2!@quadcopter.\quadcopter project\(sch_1):ins24765@quadcopter.\r_7.normal\(chips)!R_7_RESC2012X60N_4.7K!!!F24!!!!!!
+S!GND!R14!1!@quadcopter.\quadcopter project\(sch_1):ins24901@quadcopter.\r_7.normal\(chips)!R_7_RESC2012X60N_4.7K!!!F23!!!!!!
+S!AD0!R14!2!@quadcopter.\quadcopter project\(sch_1):ins24901@quadcopter.\r_7.normal\(chips)!R_7_RESC2012X60N_4.7K!!!F23!!!!!!
+S!VCC_3.3!R2!1!@quadcopter.\quadcopter project\(sch_1):ins24100@quadcopter.\r_7.normal\(chips)!R_7_RESC2012X60N_10K!!!F19!!!!!!
+S!RESET!R2!2!@quadcopter.\quadcopter project\(sch_1):ins24100@quadcopter.\r_7.normal\(chips)!R_7_RESC2012X60N_10K!!!F19!!!!!!
+S!BOOT0!R3!1!@quadcopter.\quadcopter project\(sch_1):ins24381@quadcopter.\r_7.normal\(chips)!R_7_RESC2012X60N_100K!!!F18!!!!!!
+S!N09709!R3!2!@quadcopter.\quadcopter project\(sch_1):ins24381@quadcopter.\r_7.normal\(chips)!R_7_RESC2012X60N_100K!!!F18!!!!!!
+S!N09656!R4!1!@quadcopter.\quadcopter project\(sch_1):ins24418@quadcopter.\r_7.normal\(chips)!R_7_RESC2012X60N_100K!!!F17!!!!!!
+S!BOOT1!R4!2!@quadcopter.\quadcopter project\(sch_1):ins24418@quadcopter.\r_7.normal\(chips)!R_7_RESC2012X60N_100K!!!F17!!!!!!
+S!N06122!R11!1!@quadcopter.\quadcopter project\(sch_1):ins25303@quadcopter.\r_7.normal\(chips)!R_7_RESC1608X50N_20!!!F27!!!!!!
+S!PA12!R11!2!@quadcopter.\quadcopter project\(sch_1):ins25303@quadcopter.\r_7.normal\(chips)!R_7_RESC1608X50N_20!!!F27!!!!!!
+S!BOOT0!I1!44!@quadcopter.\quadcopter project\(sch_1):ins875@quadcopter.\f103c8t6 u1_4.normal\(chips)!F103C8T6 U1_4_QFP50P900X900X160-48N_F103C8T6 U1!!!F31!!!!!!
+S!RESET!I1!7!@quadcopter.\quadcopter project\(sch_1):ins875@quadcopter.\f103c8t6 u1_4.normal\(chips)!F103C8T6 U1_4_QFP50P900X900X160-48N_F103C8T6 U1!!!F31!!!!!!
+S!PA0!I1!10!@quadcopter.\quadcopter project\(sch_1):ins875@quadcopter.\f103c8t6 u1_4.normal\(chips)!F103C8T6 U1_4_QFP50P900X900X160-48N_F103C8T6 U1!!!F31!!!!!!
+S!PA1!I1!11!@quadcopter.\quadcopter project\(sch_1):ins875@quadcopter.\f103c8t6 u1_4.normal\(chips)!F103C8T6 U1_4_QFP50P900X900X160-48N_F103C8T6 U1!!!F31!!!!!!
+S!PA10!I1!31!@quadcopter.\quadcopter project\(sch_1):ins875@quadcopter.\f103c8t6 u1_4.normal\(chips)!F103C8T6 U1_4_QFP50P900X900X160-48N_F103C8T6 U1!!!F31!!!!!!
+S!PA11!I1!32!@quadcopter.\quadcopter project\(sch_1):ins875@quadcopter.\f103c8t6 u1_4.normal\(chips)!F103C8T6 U1_4_QFP50P900X900X160-48N_F103C8T6 U1!!!F31!!!!!!
+S!PA12!I1!33!@quadcopter.\quadcopter project\(sch_1):ins875@quadcopter.\f103c8t6 u1_4.normal\(chips)!F103C8T6 U1_4_QFP50P900X900X160-48N_F103C8T6 U1!!!F31!!!!!!
+S!SWDIO!I1!34!@quadcopter.\quadcopter project\(sch_1):ins875@quadcopter.\f103c8t6 u1_4.normal\(chips)!F103C8T6 U1_4_QFP50P900X900X160-48N_F103C8T6 U1!!!F31!!!!!!
+S!SWCLK!I1!37!@quadcopter.\quadcopter project\(sch_1):ins875@quadcopter.\f103c8t6 u1_4.normal\(chips)!F103C8T6 U1_4_QFP50P900X900X160-48N_F103C8T6 U1!!!F31!!!!!!
+S!PA15!I1!38!@quadcopter.\quadcopter project\(sch_1):ins875@quadcopter.\f103c8t6 u1_4.normal\(chips)!F103C8T6 U1_4_QFP50P900X900X160-48N_F103C8T6 U1!!!F31!!!!!!
+S!PA2!I1!12!@quadcopter.\quadcopter project\(sch_1):ins875@quadcopter.\f103c8t6 u1_4.normal\(chips)!F103C8T6 U1_4_QFP50P900X900X160-48N_F103C8T6 U1!!!F31!!!!!!
+S!PA3!I1!13!@quadcopter.\quadcopter project\(sch_1):ins875@quadcopter.\f103c8t6 u1_4.normal\(chips)!F103C8T6 U1_4_QFP50P900X900X160-48N_F103C8T6 U1!!!F31!!!!!!
+S!PA4!I1!14!@quadcopter.\quadcopter project\(sch_1):ins875@quadcopter.\f103c8t6 u1_4.normal\(chips)!F103C8T6 U1_4_QFP50P900X900X160-48N_F103C8T6 U1!!!F31!!!!!!
+S!PA5!I1!15!@quadcopter.\quadcopter project\(sch_1):ins875@quadcopter.\f103c8t6 u1_4.normal\(chips)!F103C8T6 U1_4_QFP50P900X900X160-48N_F103C8T6 U1!!!F31!!!!!!
+S!PA6!I1!16!@quadcopter.\quadcopter project\(sch_1):ins875@quadcopter.\f103c8t6 u1_4.normal\(chips)!F103C8T6 U1_4_QFP50P900X900X160-48N_F103C8T6 U1!!!F31!!!!!!
+S!PA7!I1!17!@quadcopter.\quadcopter project\(sch_1):ins875@quadcopter.\f103c8t6 u1_4.normal\(chips)!F103C8T6 U1_4_QFP50P900X900X160-48N_F103C8T6 U1!!!F31!!!!!!
+S!PA8!I1!29!@quadcopter.\quadcopter project\(sch_1):ins875@quadcopter.\f103c8t6 u1_4.normal\(chips)!F103C8T6 U1_4_QFP50P900X900X160-48N_F103C8T6 U1!!!F31!!!!!!
+S!PA9!I1!30!@quadcopter.\quadcopter project\(sch_1):ins875@quadcopter.\f103c8t6 u1_4.normal\(chips)!F103C8T6 U1_4_QFP50P900X900X160-48N_F103C8T6 U1!!!F31!!!!!!
+S!PB0!I1!18!@quadcopter.\quadcopter project\(sch_1):ins875@quadcopter.\f103c8t6 u1_4.normal\(chips)!F103C8T6 U1_4_QFP50P900X900X160-48N_F103C8T6 U1!!!F31!!!!!!
+S!PB1!I1!19!@quadcopter.\quadcopter project\(sch_1):ins875@quadcopter.\f103c8t6 u1_4.normal\(chips)!F103C8T6 U1_4_QFP50P900X900X160-48N_F103C8T6 U1!!!F31!!!!!!
+S!PB10!I1!21!@quadcopter.\quadcopter project\(sch_1):ins875@quadcopter.\f103c8t6 u1_4.normal\(chips)!F103C8T6 U1_4_QFP50P900X900X160-48N_F103C8T6 U1!!!F31!!!!!!
+S!PB11!I1!22!@quadcopter.\quadcopter project\(sch_1):ins875@quadcopter.\f103c8t6 u1_4.normal\(chips)!F103C8T6 U1_4_QFP50P900X900X160-48N_F103C8T6 U1!!!F31!!!!!!
+S!PB12!I1!25!@quadcopter.\quadcopter project\(sch_1):ins875@quadcopter.\f103c8t6 u1_4.normal\(chips)!F103C8T6 U1_4_QFP50P900X900X160-48N_F103C8T6 U1!!!F31!!!!!!
+S!PB13!I1!26!@quadcopter.\quadcopter project\(sch_1):ins875@quadcopter.\f103c8t6 u1_4.normal\(chips)!F103C8T6 U1_4_QFP50P900X900X160-48N_F103C8T6 U1!!!F31!!!!!!
+S!PB14!I1!27!@quadcopter.\quadcopter project\(sch_1):ins875@quadcopter.\f103c8t6 u1_4.normal\(chips)!F103C8T6 U1_4_QFP50P900X900X160-48N_F103C8T6 U1!!!F31!!!!!!
+S!PB15!I1!28!@quadcopter.\quadcopter project\(sch_1):ins875@quadcopter.\f103c8t6 u1_4.normal\(chips)!F103C8T6 U1_4_QFP50P900X900X160-48N_F103C8T6 U1!!!F31!!!!!!
+S!BOOT1!I1!20!@quadcopter.\quadcopter project\(sch_1):ins875@quadcopter.\f103c8t6 u1_4.normal\(chips)!F103C8T6 U1_4_QFP50P900X900X160-48N_F103C8T6 U1!!!F31!!!!!!
+S!PB3!I1!39!@quadcopter.\quadcopter project\(sch_1):ins875@quadcopter.\f103c8t6 u1_4.normal\(chips)!F103C8T6 U1_4_QFP50P900X900X160-48N_F103C8T6 U1!!!F31!!!!!!
+S!PB4!I1!40!@quadcopter.\quadcopter project\(sch_1):ins875@quadcopter.\f103c8t6 u1_4.normal\(chips)!F103C8T6 U1_4_QFP50P900X900X160-48N_F103C8T6 U1!!!F31!!!!!!
+S!PB5!I1!41!@quadcopter.\quadcopter project\(sch_1):ins875@quadcopter.\f103c8t6 u1_4.normal\(chips)!F103C8T6 U1_4_QFP50P900X900X160-48N_F103C8T6 U1!!!F31!!!!!!
+S!PB6!I1!42!@quadcopter.\quadcopter project\(sch_1):ins875@quadcopter.\f103c8t6 u1_4.normal\(chips)!F103C8T6 U1_4_QFP50P900X900X160-48N_F103C8T6 U1!!!F31!!!!!!
+S!PB7!I1!43!@quadcopter.\quadcopter project\(sch_1):ins875@quadcopter.\f103c8t6 u1_4.normal\(chips)!F103C8T6 U1_4_QFP50P900X900X160-48N_F103C8T6 U1!!!F31!!!!!!
+S!PB8!I1!45!@quadcopter.\quadcopter project\(sch_1):ins875@quadcopter.\f103c8t6 u1_4.normal\(chips)!F103C8T6 U1_4_QFP50P900X900X160-48N_F103C8T6 U1!!!F31!!!!!!
+S!PB9!I1!46!@quadcopter.\quadcopter project\(sch_1):ins875@quadcopter.\f103c8t6 u1_4.normal\(chips)!F103C8T6 U1_4_QFP50P900X900X160-48N_F103C8T6 U1!!!F31!!!!!!
+S!PC13!I1!2!@quadcopter.\quadcopter project\(sch_1):ins875@quadcopter.\f103c8t6 u1_4.normal\(chips)!F103C8T6 U1_4_QFP50P900X900X160-48N_F103C8T6 U1!!!F31!!!!!!
+S!PC14!I1!3!@quadcopter.\quadcopter project\(sch_1):ins875@quadcopter.\f103c8t6 u1_4.normal\(chips)!F103C8T6 U1_4_QFP50P900X900X160-48N_F103C8T6 U1!!!F31!!!!!!
+S!PC15!I1!4!@quadcopter.\quadcopter project\(sch_1):ins875@quadcopter.\f103c8t6 u1_4.normal\(chips)!F103C8T6 U1_4_QFP50P900X900X160-48N_F103C8T6 U1!!!F31!!!!!!
+S!OSCIN!I1!5!@quadcopter.\quadcopter project\(sch_1):ins875@quadcopter.\f103c8t6 u1_4.normal\(chips)!F103C8T6 U1_4_QFP50P900X900X160-48N_F103C8T6 U1!!!F31!!!!!!
+S!OSCOUT!I1!6!@quadcopter.\quadcopter project\(sch_1):ins875@quadcopter.\f103c8t6 u1_4.normal\(chips)!F103C8T6 U1_4_QFP50P900X900X160-48N_F103C8T6 U1!!!F31!!!!!!
+S!VBAT!I1!1!@quadcopter.\quadcopter project\(sch_1):ins875@quadcopter.\f103c8t6 u1_4.normal\(chips)!F103C8T6 U1_4_QFP50P900X900X160-48N_F103C8T6 U1!!!F31!!!!!!
+S!VCC_3.3!I1!9!@quadcopter.\quadcopter project\(sch_1):ins875@quadcopter.\f103c8t6 u1_4.normal\(chips)!F103C8T6 U1_4_QFP50P900X900X160-48N_F103C8T6 U1!!!F31!!!!!!
+S!VCC_3.3!I1!24!@quadcopter.\quadcopter project\(sch_1):ins875@quadcopter.\f103c8t6 u1_4.normal\(chips)!F103C8T6 U1_4_QFP50P900X900X160-48N_F103C8T6 U1!!!F31!!!!!!
+S!VCC_3.3!I1!36!@quadcopter.\quadcopter project\(sch_1):ins875@quadcopter.\f103c8t6 u1_4.normal\(chips)!F103C8T6 U1_4_QFP50P900X900X160-48N_F103C8T6 U1!!!F31!!!!!!
+S!VCC_3.3!I1!48!@quadcopter.\quadcopter project\(sch_1):ins875@quadcopter.\f103c8t6 u1_4.normal\(chips)!F103C8T6 U1_4_QFP50P900X900X160-48N_F103C8T6 U1!!!F31!!!!!!
+S!GND!I1!8!@quadcopter.\quadcopter project\(sch_1):ins875@quadcopter.\f103c8t6 u1_4.normal\(chips)!F103C8T6 U1_4_QFP50P900X900X160-48N_F103C8T6 U1!!!F31!!!!!!
+S!GND!I1!23!@quadcopter.\quadcopter project\(sch_1):ins875@quadcopter.\f103c8t6 u1_4.normal\(chips)!F103C8T6 U1_4_QFP50P900X900X160-48N_F103C8T6 U1!!!F31!!!!!!
+S!GND!I1!35!@quadcopter.\quadcopter project\(sch_1):ins875@quadcopter.\f103c8t6 u1_4.normal\(chips)!F103C8T6 U1_4_QFP50P900X900X160-48N_F103C8T6 U1!!!F31!!!!!!
+S!GND!I1!47!@quadcopter.\quadcopter project\(sch_1):ins875@quadcopter.\f103c8t6 u1_4.normal\(chips)!F103C8T6 U1_4_QFP50P900X900X160-48N_F103C8T6 U1!!!F31!!!!!!
+S!VCC_3.3!D3!A!@quadcopter.\quadcopter project\(sch_1):ins31411@quadcopter.\led_5.normal\(chips)!LED_5_LEDM1608X55_LED!!!F34!!!!!!
+S!N245580!D3!C!@quadcopter.\quadcopter project\(sch_1):ins31411@quadcopter.\led_5.normal\(chips)!LED_5_LEDM1608X55_LED!!!F34!!!!!!
+S!VCC_3.3!D5!A!@quadcopter.\quadcopter project\(sch_1):ins31522@quadcopter.\led_5.normal\(chips)!LED_5_LEDM1608X55_LED!!!F33!!!!!!
+S!N256680!D5!C!@quadcopter.\quadcopter project\(sch_1):ins31522@quadcopter.\led_5.normal\(chips)!LED_5_LEDM1608X55_LED!!!F33!!!!!!
+S!N239790!D4!A!@quadcopter.\quadcopter project\(sch_1):ins23969@quadcopter.\led_6.normal\(chips)!LED_6_LEDM1608X55_LED!!!F32!!!!!!
+S!GND!D4!C!@quadcopter.\quadcopter project\(sch_1):ins23969@quadcopter.\led_6.normal\(chips)!LED_6_LEDM1608X55_LED!!!F32!!!!!!
+S!N06122!U1!3!@quadcopter.\quadcopter project\(sch_1):ins5841@quadcopter.\usb_2.normal\(chips)!USB_2_GCT_USB3090-XX-X_REVE_USB!!!F14!!!!!!
+S!N06124!U1!2!@quadcopter.\quadcopter project\(sch_1):ins5841@quadcopter.\usb_2.normal\(chips)!USB_2_GCT_USB3090-XX-X_REVE_USB!!!F14!!!!!!
+S!GND_POWER!U1!5!@quadcopter.\quadcopter project\(sch_1):ins5841@quadcopter.\usb_2.normal\(chips)!USB_2_GCT_USB3090-XX-X_REVE_USB!!!F14!!!!!!
+S!GND_POWER!U1!4!@quadcopter.\quadcopter project\(sch_1):ins5841@quadcopter.\usb_2.normal\(chips)!USB_2_GCT_USB3090-XX-X_REVE_USB!!!F14!!!!!!
+S!!U1!1!@quadcopter.\quadcopter project\(sch_1):ins5841@quadcopter.\usb_2.normal\(chips)!USB_2_GCT_USB3090-XX-X_REVE_USB!!!F14!!!!!!
+S!GND!C20!1!@quadcopter.\quadcopter project\(sch_1):ins14355@analog.\c.normal\(chips)!C_CAPC2012X140N_10UF!!!F35!!!!!!
+S!VCC_3.3!C20!2!@quadcopter.\quadcopter project\(sch_1):ins14355@analog.\c.normal\(chips)!C_CAPC2012X140N_10UF!!!F35!!!!!!
+S!GND!SW1!1!@quadcopter.\quadcopter project\(sch_1):ins24197@discrete.\sw pushbutton-spst.normal\(chips)!SW PUSHBUTTON-SPST_PTS636SM25FSMTRLFS_RST!!!F15!!!!!!
+S!RESET!SW1!2!@quadcopter.\quadcopter project\(sch_1):ins24197@discrete.\sw pushbutton-spst.normal\(chips)!SW PUSHBUTTON-SPST_PTS636SM25FSMTRLFS_RST!!!F15!!!!!!
+S!PA2!U10!1!@quadcopter.\quadcopter project\(sch_1):ins16077@quadcopter.\esc_0.normal\(chips)!ESC_0_ESC_ESC3!!!F13!!!!!!
+S!PA3!U11!1!@quadcopter.\quadcopter project\(sch_1):ins16099@quadcopter.\esc_0.normal\(chips)!ESC_0_ESC_ESC4!!!F12!!!!!!
+S!+5V!U12!1!@quadcopter.\quadcopter project\(sch_1):ins16637@stm32f103c8t6.\+5v.normal\(chips)!+5V_VCC3_+5V!!!F11!!!!!!
+S!+5V!U12!2!@quadcopter.\quadcopter project\(sch_1):ins16637@stm32f103c8t6.\+5v.normal\(chips)!+5V_VCC3_+5V!!!F11!!!!!!
+S!+5V!U12!3!@quadcopter.\quadcopter project\(sch_1):ins16637@stm32f103c8t6.\+5v.normal\(chips)!+5V_VCC3_+5V!!!F11!!!!!!
+S!GND!U13!1!@quadcopter.\quadcopter project\(sch_1):ins16703@quadcopter.\gnd_0.normal\(chips)!GND_0_VCC3_GND!!!F10!!!!!!
+S!GND!U13!2!@quadcopter.\quadcopter project\(sch_1):ins16703@quadcopter.\gnd_0.normal\(chips)!GND_0_VCC3_GND!!!F10!!!!!!
+S!GND!U13!3!@quadcopter.\quadcopter project\(sch_1):ins16703@quadcopter.\gnd_0.normal\(chips)!GND_0_VCC3_GND!!!F10!!!!!!
+S!VCC_3.3!U14!1!@quadcopter.\quadcopter project\(sch_1):ins17171@quadcopter.\3_0.3v.normal\(chips)!3_0.3V_VCC3_3.3V!!!F9!!!!!!
+S!VCC_3.3!U14!2!@quadcopter.\quadcopter project\(sch_1):ins17171@quadcopter.\3_0.3v.normal\(chips)!3_0.3V_VCC3_3.3V!!!F9!!!!!!
+S!VCC_3.3!U14!3!@quadcopter.\quadcopter project\(sch_1):ins17171@quadcopter.\3_0.3v.normal\(chips)!3_0.3V_VCC3_3.3V!!!F9!!!!!!
+S!VCC_3.3!U2!1!@quadcopter.\quadcopter project\(sch_1):ins6537@stm32f103c8t6.\st-link.normal\(chips)!ST-LINK_SMD_SWD!!!F8!!!!!!
+S!SWDIO!U2!2!@quadcopter.\quadcopter project\(sch_1):ins6537@stm32f103c8t6.\st-link.normal\(chips)!ST-LINK_SMD_SWD!!!F8!!!!!!
+S!SWCLK!U2!3!@quadcopter.\quadcopter project\(sch_1):ins6537@stm32f103c8t6.\st-link.normal\(chips)!ST-LINK_SMD_SWD!!!F8!!!!!!
+S!GND_POWER!U2!4!@quadcopter.\quadcopter project\(sch_1):ins6537@stm32f103c8t6.\st-link.normal\(chips)!ST-LINK_SMD_SWD!!!F8!!!!!!
+S!VCC_3.3!U3!1!@quadcopter.\quadcopter project\(sch_1):ins8657@quadcopter.\boot_0.normal\(chips)!BOOT_0_BOOT_BOOT!!!F7!!!!!!
+S!GND!U3!3!@quadcopter.\quadcopter project\(sch_1):ins8657@quadcopter.\boot_0.normal\(chips)!BOOT_0_BOOT_BOOT!!!F7!!!!!!
+S!GND!U3!4!@quadcopter.\quadcopter project\(sch_1):ins8657@quadcopter.\boot_0.normal\(chips)!BOOT_0_BOOT_BOOT!!!F7!!!!!!
+S!VCC_3.3!U3!6!@quadcopter.\quadcopter project\(sch_1):ins8657@quadcopter.\boot_0.normal\(chips)!BOOT_0_BOOT_BOOT!!!F7!!!!!!
+S!N09709!U3!2!@quadcopter.\quadcopter project\(sch_1):ins8657@quadcopter.\boot_0.normal\(chips)!BOOT_0_BOOT_BOOT!!!F7!!!!!!
+S!N09656!U3!5!@quadcopter.\quadcopter project\(sch_1):ins8657@quadcopter.\boot_0.normal\(chips)!BOOT_0_BOOT_BOOT!!!F7!!!!!!
+S!AD0!U4!9!@quadcopter.\quadcopter project\(sch_1):ins11466@stm32f103c8t6.\mpu6050.normal\(chips)!MPU6050_IC_MPU6050_MPU6050!!!F6!!!!!!
+S!XCL!U4!7!@quadcopter.\quadcopter project\(sch_1):ins11466@stm32f103c8t6.\mpu6050.normal\(chips)!MPU6050_IC_MPU6050_MPU6050!!!F6!!!!!!
+S!XDA!U4!6!@quadcopter.\quadcopter project\(sch_1):ins11466@stm32f103c8t6.\mpu6050.normal\(chips)!MPU6050_IC_MPU6050_MPU6050!!!F6!!!!!!
+S!GND!U4!1!@quadcopter.\quadcopter project\(sch_1):ins11466@stm32f103c8t6.\mpu6050.normal\(chips)!MPU6050_IC_MPU6050_MPU6050!!!F6!!!!!!
+S!!U4!22!@quadcopter.\quadcopter project\(sch_1):ins11466@stm32f103c8t6.\mpu6050.normal\(chips)!MPU6050_IC_MPU6050_MPU6050!!!F6!!!!!!
+S!N12082!U4!20!@quadcopter.\quadcopter project\(sch_1):ins11466@stm32f103c8t6.\mpu6050.normal\(chips)!MPU6050_IC_MPU6050_MPU6050!!!F6!!!!!!
+S!N11835!U4!11!@quadcopter.\quadcopter project\(sch_1):ins11466@stm32f103c8t6.\mpu6050.normal\(chips)!MPU6050_IC_MPU6050_MPU6050!!!F6!!!!!!
+S!GND!U4!18!@quadcopter.\quadcopter project\(sch_1):ins11466@stm32f103c8t6.\mpu6050.normal\(chips)!MPU6050_IC_MPU6050_MPU6050!!!F6!!!!!!
+S!INT!U4!12!@quadcopter.\quadcopter project\(sch_1):ins11466@stm32f103c8t6.\mpu6050.normal\(chips)!MPU6050_IC_MPU6050_MPU6050!!!F6!!!!!!
+S!N11831!U4!10!@quadcopter.\quadcopter project\(sch_1):ins11466@stm32f103c8t6.\mpu6050.normal\(chips)!MPU6050_IC_MPU6050_MPU6050!!!F6!!!!!!
+S!!U4!19!@quadcopter.\quadcopter project\(sch_1):ins11466@stm32f103c8t6.\mpu6050.normal\(chips)!MPU6050_IC_MPU6050_MPU6050!!!F6!!!!!!
+S!!U4!21!@quadcopter.\quadcopter project\(sch_1):ins11466@stm32f103c8t6.\mpu6050.normal\(chips)!MPU6050_IC_MPU6050_MPU6050!!!F6!!!!!!
+S!N11932!U4!23!@quadcopter.\quadcopter project\(sch_1):ins11466@stm32f103c8t6.\mpu6050.normal\(chips)!MPU6050_IC_MPU6050_MPU6050!!!F6!!!!!!
+S!N11925!U4!24!@quadcopter.\quadcopter project\(sch_1):ins11466@stm32f103c8t6.\mpu6050.normal\(chips)!MPU6050_IC_MPU6050_MPU6050!!!F6!!!!!!
+S!VCC_3.3!U4!13!@quadcopter.\quadcopter project\(sch_1):ins11466@stm32f103c8t6.\mpu6050.normal\(chips)!MPU6050_IC_MPU6050_MPU6050!!!F6!!!!!!
+S!VCC_3.3!U4!8!@quadcopter.\quadcopter project\(sch_1):ins11466@stm32f103c8t6.\mpu6050.normal\(chips)!MPU6050_IC_MPU6050_MPU6050!!!F6!!!!!!
+S!!U5!4!@quadcopter.\quadcopter project\(sch_1):ins13433@stm32f103c8t6.\4a2d.normal\(chips)!4A2D_IC_XC8107AC20MR-G_4A2D!!!F5!!!!!!
+S!+5V!U5!3!@quadcopter.\quadcopter project\(sch_1):ins13433@stm32f103c8t6.\4a2d.normal\(chips)!4A2D_IC_XC8107AC20MR-G_4A2D!!!F5!!!!!!
+S!GND!U5!2!@quadcopter.\quadcopter project\(sch_1):ins13433@stm32f103c8t6.\4a2d.normal\(chips)!4A2D_IC_XC8107AC20MR-G_4A2D!!!F5!!!!!!
+S!+5V!U5!1!@quadcopter.\quadcopter project\(sch_1):ins13433@stm32f103c8t6.\4a2d.normal\(chips)!4A2D_IC_XC8107AC20MR-G_4A2D!!!F5!!!!!!
+S!VCC_3.3!U5!5!@quadcopter.\quadcopter project\(sch_1):ins13433@stm32f103c8t6.\4a2d.normal\(chips)!4A2D_IC_XC8107AC20MR-G_4A2D!!!F5!!!!!!
+S!PA0!U7!1!@quadcopter.\quadcopter project\(sch_1):ins15963@quadcopter.\esc_0.normal\(chips)!ESC_0_ESC_ESC1!!!F4!!!!!!
+S!PA6!U8!1!@quadcopter.\quadcopter project\(sch_1):ins15990@stm32f103c8t6.\reciver.normal\(chips)!RECIVER_CH4B_RECIVER!!!F3!!!!!!
+S!PA7!U8!2!@quadcopter.\quadcopter project\(sch_1):ins15990@stm32f103c8t6.\reciver.normal\(chips)!RECIVER_CH4B_RECIVER!!!F3!!!!!!
+S!PB0!U8!3!@quadcopter.\quadcopter project\(sch_1):ins15990@stm32f103c8t6.\reciver.normal\(chips)!RECIVER_CH4B_RECIVER!!!F3!!!!!!
+S!PB1!U8!4!@quadcopter.\quadcopter project\(sch_1):ins15990@stm32f103c8t6.\reciver.normal\(chips)!RECIVER_CH4B_RECIVER!!!F3!!!!!!
+S!PA1!U9!1!@quadcopter.\quadcopter project\(sch_1):ins16055@quadcopter.\esc_0.normal\(chips)!ESC_0_ESC_ESC2!!!F2!!!!!!
+S!OSCOUT!Y1!1!@quadcopter.\quadcopter project\(sch_1):ins1457@discrete.\crystal.normal\(chips)!CRYSTAL_XTAL_ECS-80-32-4X_8MHZ!!!F1!!!!!!
+S!OSCIN!Y1!2!@quadcopter.\quadcopter project\(sch_1):ins1457@discrete.\crystal.normal\(chips)!CRYSTAL_XTAL_ECS-80-32-4X_8MHZ!!!F1!!!!!!
+S!PC14!Y2!1!@quadcopter.\quadcopter project\(sch_1):ins2868@discrete.\crystal1-4/sm.normal\(chips)!CRYSTAL1-4/SM_MC-306_CRYSTAL1-4/SM!!!F0!!!!!!
+S!!Y2!2!@quadcopter.\quadcopter project\(sch_1):ins2868@discrete.\crystal1-4/sm.normal\(chips)!CRYSTAL1-4/SM_MC-306_CRYSTAL1-4/SM!!!F0!!!!!!
+S!!Y2!3!@quadcopter.\quadcopter project\(sch_1):ins2868@discrete.\crystal1-4/sm.normal\(chips)!CRYSTAL1-4/SM_MC-306_CRYSTAL1-4/SM!!!F0!!!!!!
+S!PC15!Y2!4!@quadcopter.\quadcopter project\(sch_1):ins2868@discrete.\crystal1-4/sm.normal\(chips)!CRYSTAL1-4/SM_MC-306_CRYSTAL1-4/SM!!!F0!!!!!!

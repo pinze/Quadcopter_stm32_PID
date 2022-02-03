@@ -1,0 +1,25 @@
+\t (00:00:05) allegro 17.4 P001 Windows SPB 64-bit Edition
+\t (00:00:05)     Journal start - Wed Oct 20 20:07:57 2021
+\t (00:00:05)         Host=DESKTOP-SKS0O3V User=patri Pid=5804 CPUs=12
+\t (00:00:05) CmdLine= c:\cadence\spb_17.4\tools\bin\allegro.exe C:\Users\patri\OneDrive\桌面\quadcopter OrCad2\PZ100\pag64.dra
+\t (00:00:05) 
+   (00:00:05) Loading axlcore.cxt 
+\t (00:00:08) Opening existing design...
+\e (00:00:08) ERROR(SPMHDB-181): The current version of software is unable to open design C:/Users/patri/OneDrive/桌面/quadcopter OrCad2/PZ100/pag64.dra.
+The design was last saved using version 15 and must be updated using DB Doctor. [help]
+\e (00:00:08) ERROR(SPMHDB-181): The current version of software is unable to open design C:/Users/patri/OneDrive/桌面/quadcopter OrCad2/PZ100/pag64.dra.
+The design was last saved using version 15 and must be updated using DB Doctor. [help]
+\i (00:00:10) fillin confirm
+\t (00:00:10) Starting new design...
+\i (00:00:11) trapsize 116667
+\i (00:00:11) generaledit 
+\i (00:00:12) trapsize 815
+\i (00:00:12) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged unnamed
+\i (00:00:12) opencd 'C:/Users/patri/OneDrive/桌�`�`�/1QUADCOPTER_PCB/stm32f103c8t6.dra' 
+\t (00:00:12) Opening existing design...
+\i (00:00:14) fillin yes 
+\i (00:00:14) trapsize 511
+\i (00:00:14) trapsize 525
+\i (00:00:14) trapsize 511
+\i (00:00:14) trapsize 530
+\t (00:00:14)     Journal end - Wed Oct 20 20:08:06 2021

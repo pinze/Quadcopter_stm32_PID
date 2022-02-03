@@ -1,0 +1,26 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Convert Gerber Log                                               )
+(                                                                     )
+(    Drawing          : PCB1.brd                                      )
+(    Software Version : 17.4P001                                      )
+(    Date/Time        : Mon Nov 15 21:02:17 2021                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+
+Conversion of figures to vias is complete.
+Added connect line from pin at (214.0650 123.2100)
+to connect line at (214.1036 123.2100).
+
+0 incomplete nets. 
+
+100 percent of nets are completely connected.
+
+
+Elapsed time for conversion: 0 min 1 sec
+
+
+Conversion complete; no errors found. 

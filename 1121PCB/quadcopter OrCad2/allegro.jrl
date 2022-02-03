@@ -1,0 +1,32 @@
+\t (00:00:06) allegro 17.4 S021 Windows SPB 64-bit Edition
+\t (00:00:06)     Journal start - Wed Jan 12 18:53:11 2022
+\t (00:00:06)         Host=DESKTOP-SKS0O3V User=patri Pid=11696 CPUs=12
+\t (00:00:06) CmdLine= c:\cadence\cadence\cadence_spb_17.4-2019\tools\bin\allegro.exe C:\Users\patri\OneDrive\桌面\1121PCB\quadcopter OrCad2\PCB1.brd
+\t (00:00:06) 
+   (00:00:06) Loading axlcore.cxt 
+\t (00:00:07) Opening existing design...
+\i (00:00:07) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged PCB1
+\d (00:00:07) Design opened: C:/Users/patri/OneDrive/桌面/1121PCB/quadcopter OrCad2/PCB1.brd
+\t (00:00:07) Grids are drawn 2.0000, 2.0000 apart for enhanced viewing.
+\i (00:00:07) trapsize 16521
+\i (00:00:07) trapsize 16963
+\i (00:00:08) trapsize 17187
+\t (00:00:08) Grids are drawn 2.0000, 2.0000 apart for enhanced viewing.
+\i (00:00:08) trapsize 17708
+\i (00:00:08) generaledit 
+\i (00:00:20) place manual 
+\i (00:00:20) setwindow form.plc_manual
+\i (00:00:20) FORM plc_manual tree  'Components by refdes' 
+\i (00:00:26) FORM plc_manual cancel  
+\i (00:00:26) setwindow pcb
+\i (00:00:26) generaledit 
+\i (00:01:16) place manual 
+\i (00:01:16) setwindow form.plc_manual
+\i (00:01:16) FORM plc_manual tree  'Components by refdes' 
+\i (00:02:30) FORM plc_manual cancel  
+\i (00:02:30) setwindow pcb
+\i (00:02:30) generaledit 
+\i (00:02:30) exit 
+\e (00:02:30) Do you want to save the changes you made to PCB1.brd?
+\i (00:02:31) fillin no 
+\t (00:02:32)     Journal end - Wed Jan 12 18:55:36 2022

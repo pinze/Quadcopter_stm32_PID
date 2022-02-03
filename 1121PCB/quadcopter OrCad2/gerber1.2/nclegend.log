@@ -1,0 +1,19 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DRILL LEGEND                                                     )
+(                                                                     )
+(    Drawing          : PCB1.brd                                      )
+(    Software Version : 17.4S021                                      )
+(    Date/Time        : Tue Nov 16 19:14:03 2021                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Begin processing of drill legend template file 'c:/cadence/cadence/cadence_spb_17.4-2019/share/pcb/text/nclegend/default-mm.dlt' ...
+WARNING(SPMHSK-47): Column type 'HoleSize' does not exist.
+WARNING(SPMHSK-47): Column type 'PlateStatus' does not exist.
+End of drill legend template file processing.
+
+Begin processing drill holes.
+No errors detected in processing holes.
+End processing drill holes.

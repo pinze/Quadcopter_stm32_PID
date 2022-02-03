@@ -1,0 +1,129 @@
+Tue Nov  9 02:44:31 2021				Page     1
+
+
+ 
+Update Symbols/Modules Logfile
+	Tue Nov  9 02:44:31 2021
+
+------ Module Refresh Messages ------
+
+SUMMARY:    Updated 0 out of 0 modules
+
+------ End Module Messages     ------
+
+
+
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Symbol                                                   )
+(                                                                     )
+(    Drawing          : PCB1.brd                                      )
+(    Software Version : 17.4S021                                      )
+(    Date/Time        : Tue Nov  9 02:44:31 2021                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Tue Nov  9 02:44:31 2021				Page     1
+
+
+------ Symbol Refresh Directives ------
+
+Input design  = 'C:/Users/patri/OneDrive/桌面/1101PCB/quadcopter OrCad2/PCB1.brd'
+Output design = ''
+
+Update mechanical symbols              = 'NO'
+Update format symbols                  = 'NO'
+Update package symbols                 = 'NO'
+Update shape/flash symbols             = 'NO'
+Update symbol padstacks                = 'YES'
+Preserve padstacks replaced on pins    = 'YES'
+Reset symbol text and size locations   = 'NO'
+Reset Pin Escapes (fanouts)            = 'NO'
+Ripup Etch                             = 'NO'
+Reset custom drill data                = 'YES'
+Symbol list file                       = 'C:/Users/patri/AppData/Local/Temp/#Taaaacg07732.tmp'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           c:/cadence/cadence/cadence_spb_17.4-2019/share/local/pcb/symbols 
+           c:/cadence/cadence/cadence_spb_17.4-2019/share/pcb/pcb_lib/symbols 
+           c:/cadence/cadence/cadence_spb_17.4-2019/share/pcb/allegrolib/symbols 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           c:/cadence/cadence/cadence_spb_17.4-2019/share/local/pcb/padstacks 
+           c:/cadence/cadence/cadence_spb_17.4-2019/share/pcb/pcb_lib/symbols 
+           c:/cadence/cadence/cadence_spb_17.4-2019/share/pcb/allegrolib/symbols 
+
+
+------ Symbol Refresh Messages ------
+
+'GCT_USB3090-XX-X_REVE'  symbol refreshed successfully.
+
+
+------ Pad Stack Refresh Messages ------
+
+'S_R10_10'  pad stack refreshed successfully.
+'H_C45'  pad stack refreshed successfully.
+'S_R190_200_M190_200_P190_20'  pad stack refreshed successfully.
+'S_R40_140_M40_140_P40_140'  pad stack refreshed successfully.
+WARNING(SPMHNI-255): Symbol 'ELAPSED TIME  0:00:00' not found (in list file).
+WARNING(SPMHNI-255): Symbol 'CPU TIME      0:00:46' not found (in list file).
+WARNING(SPMHNI-255): Symbol 'NETREV RUN ON NOV 9 2:41:45 2021' not found (in list file).
+WARNING(SPMHNI-255): Symbol '------ SUMMARY STATISTICS ------' not found (in list file).
+WARNING(SPMHNI-255): Symbol 'PADPATH =  .' not found (in list file).
+WARNING(SPMHNI-255): Symbol 'PSMPATH =  .' not found (in list file).
+WARNING(SPMHNI-255): Symbol 'MODULEPATH =  .' not found (in list file).
+WARNING(SPMHNI-255): Symbol '------ LIBRARY PATHS ------' not found (in list file).
+WARNING(SPMHNI-255): Symbol '------ OVERSIGHTS/WARNINGS/ERRORS ------' not found (in list file).
+WARNING(SPMHNI-255): Symbol 'STARTING TO READ C:/USERS/PATRI/ONEDRIVE/桌面/1101PCB/QUADCOPTER ORCAD2/ALLEGRO/PSTXNET.DAT' not fo~
+und (in list file).
+WARNING(SPMHNI-255): Symbol 'STARTING TO READ C:/USERS/PATRI/ONEDRIVE/桌面/1101PCB/QUADCOPTER ORCAD2/ALLEGRO/PSTXPRT.DAT' not fo~
+und (in list file).
+WARNING(SPMHNI-255): Symbol 'STARTING TO READ C:/USERS/PATRI/ONEDRIVE/桌面/1101PCB/QUADCOPTER ORCAD2/ALLEGRO/PSTCHIP.DAT' not fo~
+und (in list file).
+WARNING(SPMHNI-255): Symbol '------ PREPARING TO READ PST FILES ------' not found (in list file).
+WARNING(SPMHNI-255): Symbol 'CMDLINE: NETREV -$ -I C:/USERS/PATRI/ONEDRIVE/桌面/1101PCB/QUADCOPTER ORCAD2/ALLEGRO -Y 1 -H -Q NET~
+REV_CONSTRAINT_REPORT.XML C:/USERS/PATRI/ONEDRIVE/桌面/1101PCB/QUADCOPTER ORCAD2/#TAAAAAE07732.TMP' not found (in list file).
+WARNING(SPMHNI-255): Symbol 'NEW DESIGN NAME:             'C:/USERS/PATRI/ONEDRIVE/桌面/1101PCB/QUADCOPTER ORCAD2/PCB1.BRD'' not~
+ found (in list file).
+WARNING(SPMHNI-255): Symbol 'OLD DESIGN NAME:             'C:/USERS/PATRI/ONEDRIVE/桌面/1101PCB/QUADCOPTER ORCAD2/PCB1.BRD'' not~
+ found (in list file).
+WARNING(SPMHNI-255): Symbol 'DESIGN DIRECTORY:            'C:/USERS/PATRI/ONEDRIVE/桌面/1101PCB/QUADCOPTER ORCAD2'' not found (i~
+n list file).
+WARNING(SPMHNI-255): Symbol 'SCHEMATIC DIRECTORY:         'C:/USERS/PATRI/ONEDRIVE/桌面/1101PCB/QUADCOPTER ORCAD2/ALLEGRO'' not ~
+found (in list file).
+WARNING(SPMHNI-255): Symbol 'DRC UPDATE:                  YES' not found (in list file).
+WARNING(SPMHNI-255): Symbol 'MISSING SYMBOL HAS ERROR:    NO' not found (in list file).
+WARNING(SPMHNI-255): Symbol 'RIPUP SYMBOLS:               ALWAYS' not found (in list file).
+WARNING(SPMHNI-255): Symbol 'RIPUP RETAIN BONDWIRE:       NO' not found (in list file).
+WARNING(SPMHNI-255): Symbol 'RIPUP DELETE FIRST SEGMENT:  NO' not found (in list file).
+WARNING(SPMHNI-255): Symbol 'RIPUP ETCH:                  NO' not found (in list file).
+WARNING(SPMHNI-255): Symbol '------ DIRECTIVES ------------' not found (in list file).
+WARNING(SPMHNI-255): Symbol '(---------------------------------------------------------------------)' not found (in list file).
+WARNING(SPMHNI-255): Symbol '(                                                                     )' not found (in list file).
+Tue Nov  9 02:44:31 2021				Page     2
+
+
+WARNING(SPMHNI-255): Symbol '(    DATE/TIME        : TUE NOV  9 02:41:45 2021                      )' not found (in list file).
+WARNING(SPMHNI-255): Symbol '(    SOFTWARE VERSION : 17.4S021                                      )' not found (in list file).
+WARNING(SPMHNI-255): Symbol '(    DRAWING          : PCB1.BRD                                      )' not found (in list file).
+WARNING(SPMHNI-255): Symbol '(                                                                     )' not found (in list file).
+WARNING(SPMHNI-255): Symbol '(    ALLEGRO NETREV IMPORT LOGIC                                      )' not found (in list file).
+WARNING(SPMHNI-255): Symbol '(                                                                     )' not found (in list file).
+WARNING(SPMHNI-255): Symbol '(---------------------------------------------------------------------)' not found (in list file).
+
+
+
+----- Symbol Update Summary ----
+
+Updated symbols: 1 out 1
+    Design updated.
+

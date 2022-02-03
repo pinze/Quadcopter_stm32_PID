@@ -1,0 +1,25 @@
+﻿Importer Log Report
+Project : QUADCOPTER.PrjPcb
+
+Section : Document - C:\Users\patri\OneDrive\桌面\quadcopter OrCad2\QUADCOPTER.DSN
+
+    Section : Importing Sheet - Quadcopter.SchDoc
+        Warning : Junction at (8100mil,5700mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (5700mil,2400mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (5700mil,1900mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (1300mil,5400mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (1400mil,3000mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (11700mil,4900mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (11700mil,4600mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (14200mil,4300mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (14000mil,4200mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (11200mil,6400mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (12900mil,6400mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (11900mil,2200mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (13900mil,2200mil) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing PSpice Simulation Profiles
+        Event   : Processing Orcad Project file - C:\Users\patri\OneDrive\桌面\quadcopter OrCad2\QUADCOPTER.opj
+    EndSection
+EndSection

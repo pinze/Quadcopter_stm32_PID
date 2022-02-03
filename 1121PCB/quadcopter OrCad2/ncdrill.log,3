@@ -1,0 +1,71 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC DRILL Log                                                     )
+(                                                                     )
+(    Drawing          : PCB1.brd                                      )
+(    Software Version : 17.4S021                                      )
+(    Date/Time        : Tue Nov 16 21:16:17 2021                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file 'nc_param.txt' ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		3.5
+ MACHINE-OFFSET		x:0.00000	y:0.00000   (mm)
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		METRIC
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		YES
+ SUPPRESS-LEAD-ZEROES	NO
+ SUPPRESS-TRAIL-ZEROES	NO
+ SUPPRESS-EQUAL		NO
+ TOOL-SELECT		YES
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		NO
+ SEPARATE-ROUTING	NO
+ OPTIMIZE_DRILLING	NO
+ ENHANCED_EXCELLON	NO
+ SCALE			1.000000
+
+ WARNING(SPMHMF-365): This design contains 4 slot holes that cannot be drilled.
+ WARNING(SPMHMF-366): They can be processed by NC routing instead.
+ WARNING(SPMHMF-368): Cannot find NC Drill tool file 'nc_tools.txt'
+ WARNING(SPMHMF-369): ... will auto-generate tool file 'nc_tools_auto.txt'.
+
+
+     Auto-generating tool file 'nc_tools_auto.txt' ...
+
+           Size  Plating  Tool        + Tolerance  - Tolerance
+
+         0.3302  P        T01            0.150000     0.150000
+         1.0000  P        T02            0.150000     0.150000
+         2.2000  P        T03            0.150000     0.150000
+         0.6500  N        T04            0.150000     0.150000
+
+
+ Drill files being output to directory 'C:/Users/patri/OneDrive/桌面/1116PCB/quadcopter OrCad2/gerber1116' ...
+
+
+
+     'PCB1-1-2.drl' created for holes connecting TOP and BOTTOM
+     ----------------------------------------------------------
+
+     Tool  Num     Size      +/- Tolerance     Plating   Quantity
+
+     T01    1.   0.3302    0.1500/  0.1500      PLATED         64
+     T02    2.   1.0000    0.1500/  0.1500      PLATED         29
+     T03    3.   2.2000    0.1500/  0.1500      PLATED          4
+     T04    4.   0.6500    0.1500/  0.1500  NON_PLATED          2
+
+     ---- Total holes:                                         99
+
+     ---- Total head travel:              5.07 feet (1.54 meters)
+

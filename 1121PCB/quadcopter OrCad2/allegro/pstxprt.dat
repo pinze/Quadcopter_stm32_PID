@@ -1,0 +1,550 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.4.0 d001Nov-16-2021 at 18:11:38 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='QUADCOPTER';
+ POST_TIME='Sep 12 2021 13:49:44';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C10 'C_CAPC2012X140N_100N':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTER.QUADCOPTER PROJECT(SCH_1):INS3273@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@quadcopter.\quadcopter project\(sch_1):ins3273@analog.\c.normal\(chips)',
+ P_PATH='@quadcopter.\quadcopter project\(sch_1):page1_ins3273@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'C_CAPC2012X140N_100N':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTER.QUADCOPTER PROJECT(SCH_1):INS3299@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@quadcopter.\quadcopter project\(sch_1):ins3299@analog.\c.normal\(chips)',
+ P_PATH='@quadcopter.\quadcopter project\(sch_1):page1_ins3299@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'C_CAPC2012X140N_20PF':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTER.QUADCOPTER PROJECT(SCH_1):INS2989@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@quadcopter.\quadcopter project\(sch_1):ins2989@analog.\c.normal\(chips)',
+ P_PATH='@quadcopter.\quadcopter project\(sch_1):page1_ins2989@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'C_CAPC2012X140N_20PF':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTER.QUADCOPTER PROJECT(SCH_1):INS1491@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@quadcopter.\quadcopter project\(sch_1):ins1491@analog.\c.normal\(chips)',
+ P_PATH='@quadcopter.\quadcopter project\(sch_1):page1_ins1491@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'C_CAPC2012X140N_20PF':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTER.QUADCOPTER PROJECT(SCH_1):INS1509@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@quadcopter.\quadcopter project\(sch_1):ins1509@analog.\c.normal\(chips)',
+ P_PATH='@quadcopter.\quadcopter project\(sch_1):page1_ins1509@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C15 'C_CAPC2012X140N_0.01UF':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTER.QUADCOPTER PROJECT(SCH_1):INS11583@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@quadcopter.\quadcopter project\(sch_1):ins11583@analog.\c.normal\(chips)',
+ P_PATH='@quadcopter.\quadcopter project\(sch_1):page1_ins11583@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C16 'C_CAPC2012X140N_0.1UF':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTER.QUADCOPTER PROJECT(SCH_1):INS11815@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@quadcopter.\quadcopter project\(sch_1):ins11815@analog.\c.normal\(chips)',
+ P_PATH='@quadcopter.\quadcopter project\(sch_1):page1_ins11815@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C17 'C_CAPC2012X140N_220PF':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTER.QUADCOPTER PROJECT(SCH_1):INS11986@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@quadcopter.\quadcopter project\(sch_1):ins11986@analog.\c.normal\(chips)',
+ P_PATH='@quadcopter.\quadcopter project\(sch_1):page1_ins11986@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C18 'C_CAPC2012X140N_0.1UF':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTER.QUADCOPTER PROJECT(SCH_1):INS12296@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@quadcopter.\quadcopter project\(sch_1):ins12296@analog.\c.normal\(chips)',
+ P_PATH='@quadcopter.\quadcopter project\(sch_1):page1_ins12296@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'C_CAPC2012X140N_1UF':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTER.QUADCOPTER PROJECT(SCH_1):INS8162@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@quadcopter.\quadcopter project\(sch_1):ins8162@analog.\c.normal\(chips)',
+ P_PATH='@quadcopter.\quadcopter project\(sch_1):page1_ins8162@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C20 'C_CAPC2012X140N_10UF':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTER.QUADCOPTER PROJECT(SCH_1):INS56934@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@quadcopter.\quadcopter project\(sch_1):ins56934@analog.\c.normal\(chips)',
+ P_PATH='@quadcopter.\quadcopter project\(sch_1):page1_ins56934@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C21 'C_CAPC2012X140N_0.1UF':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTER.QUADCOPTER PROJECT(SCH_1):INS56950@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@quadcopter.\quadcopter project\(sch_1):ins56950@analog.\c.normal\(chips)',
+ P_PATH='@quadcopter.\quadcopter project\(sch_1):page1_ins56950@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C22 'C_CAPC2012X140N_0.1UF':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTER.QUADCOPTER PROJECT(SCH_1):INS57219@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@quadcopter.\quadcopter project\(sch_1):ins57219@analog.\c.normal\(chips)',
+ P_PATH='@quadcopter.\quadcopter project\(sch_1):page1_ins57219@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C23 'C_CAPC2012X140N_10UF':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTER.QUADCOPTER PROJECT(SCH_1):INS57247@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@quadcopter.\quadcopter project\(sch_1):ins57247@analog.\c.normal\(chips)',
+ P_PATH='@quadcopter.\quadcopter project\(sch_1):page1_ins57247@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'C_CAPC2012X140N_100N':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTER.QUADCOPTER PROJECT(SCH_1):INS3335@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@quadcopter.\quadcopter project\(sch_1):ins3335@analog.\c.normal\(chips)',
+ P_PATH='@quadcopter.\quadcopter project\(sch_1):page1_ins3335@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'C_CAPC2012X140N_100N':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTER.QUADCOPTER PROJECT(SCH_1):INS3351@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@quadcopter.\quadcopter project\(sch_1):ins3351@analog.\c.normal\(chips)',
+ P_PATH='@quadcopter.\quadcopter project\(sch_1):page1_ins3351@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'C_CAPC2012X140N_20PF':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTER.QUADCOPTER PROJECT(SCH_1):INS2973@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@quadcopter.\quadcopter project\(sch_1):ins2973@analog.\c.normal\(chips)',
+ P_PATH='@quadcopter.\quadcopter project\(sch_1):page1_ins2973@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'LED_5_LEDM1608X55_LED':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTER.QUADCOPTER PROJECT(SCH_1):INS31411@QUADCOPTER.LED_5.NORMAL(CHIPS)':
+ C_PATH='@quadcopter.\quadcopter project\(sch_1):ins31411@quadcopter.\led_5.normal\(chips)',
+ P_PATH='@quadcopter.\quadcopter project\(sch_1):page1_ins31411@quadcopter.\led_5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D4 'LED_6_LEDM1608X55_LED':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTER.QUADCOPTER PROJECT(SCH_1):INS23969@QUADCOPTER.LED_6.NORMAL(CHIPS)':
+ C_PATH='@quadcopter.\quadcopter project\(sch_1):ins23969@quadcopter.\led_6.normal\(chips)',
+ P_PATH='@quadcopter.\quadcopter project\(sch_1):page1_ins23969@quadcopter.\led_6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D5 'LED_5_LEDM1608X55_LED':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTER.QUADCOPTER PROJECT(SCH_1):INS31522@QUADCOPTER.LED_5.NORMAL(CHIPS)':
+ C_PATH='@quadcopter.\quadcopter project\(sch_1):ins31522@quadcopter.\led_5.normal\(chips)',
+ P_PATH='@quadcopter.\quadcopter project\(sch_1):page1_ins31522@quadcopter.\led_5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ I1 'F103C8T6 U1_4_QFP50P900X900X160-48N_F103C8T6 U1':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTER.QUADCOPTER PROJECT(SCH_1):INS875@QUADCOPTER.F103C8T6 U1_4.NORMAL(CHIPS)':
+ C_PATH='@quadcopter.\quadcopter project\(sch_1):ins875@quadcopter.\f103c8t6 u1_4.normal\(chips)',
+ P_PATH='@quadcopter.\quadcopter project\(sch_1):page1_ins875@quadcopter.\f103c8t6 u1_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ PAD1 'PINPAD_ESC_PINPAD':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTER.QUADCOPTER PROJECT(SCH_1):INS51471@MISC.PINPAD.NORMAL(CHIPS)':
+ C_PATH='@quadcopter.\quadcopter project\(sch_1):ins51471@misc.\pinpad.normal\(chips)',
+ P_PATH='@quadcopter.\quadcopter project\(sch_1):page1_ins51471@misc.\pinpad.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ PAD2 'PINPAD_ESC_PINPAD':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTER.QUADCOPTER PROJECT(SCH_1):INS51583@MISC.PINPAD.NORMAL(CHIPS)':
+ C_PATH='@quadcopter.\quadcopter project\(sch_1):ins51583@misc.\pinpad.normal\(chips)',
+ P_PATH='@quadcopter.\quadcopter project\(sch_1):page1_ins51583@misc.\pinpad.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'R_7_RESC2012X60N_1.5K':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTER.QUADCOPTER PROJECT(SCH_1):INS25209@QUADCOPTER.R_7.NORMAL(CHIPS)':
+ C_PATH='@quadcopter.\quadcopter project\(sch_1):ins25209@quadcopter.\r_7.normal\(chips)',
+ P_PATH='@quadcopter.\quadcopter project\(sch_1):page1_ins25209@quadcopter.\r_7.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'R_7_RESC1608X50N_20':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTER.QUADCOPTER PROJECT(SCH_1):INS25303@QUADCOPTER.R_7.NORMAL(CHIPS)':
+ C_PATH='@quadcopter.\quadcopter project\(sch_1):ins25303@quadcopter.\r_7.normal\(chips)',
+ P_PATH='@quadcopter.\quadcopter project\(sch_1):page1_ins25303@quadcopter.\r_7.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R111 'R_8_RESC2012X60N_1M':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTER.QUADCOPTER PROJECT(SCH_1):INS1556@QUADCOPTER.R_8.NORMAL(CHIPS)':
+ C_PATH='@quadcopter.\quadcopter project\(sch_1):ins1556@quadcopter.\r_8.normal\(chips)',
+ P_PATH='@quadcopter.\quadcopter project\(sch_1):page1_ins1556@quadcopter.\r_8.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R112 'R_7_RESC2012X60N_5.1K':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTER.QUADCOPTER PROJECT(SCH_1):INS64001@QUADCOPTER.R_7.NORMAL(CHIPS)':
+ C_PATH='@quadcopter.\quadcopter project\(sch_1):ins64001@quadcopter.\r_7.normal\(chips)',
+ P_PATH='@quadcopter.\quadcopter project\(sch_1):page1_ins64001@quadcopter.\r_7.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R113 'R_7_RESC2012X60N_5.1K':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTER.QUADCOPTER PROJECT(SCH_1):INS64031@QUADCOPTER.R_7.NORMAL(CHIPS)':
+ C_PATH='@quadcopter.\quadcopter project\(sch_1):ins64031@quadcopter.\r_7.normal\(chips)',
+ P_PATH='@quadcopter.\quadcopter project\(sch_1):page1_ins64031@quadcopter.\r_7.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'R_7_RESC2012X60N_4.7K':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTER.QUADCOPTER PROJECT(SCH_1):INS24693@QUADCOPTER.R_7.NORMAL(CHIPS)':
+ C_PATH='@quadcopter.\quadcopter project\(sch_1):ins24693@quadcopter.\r_7.normal\(chips)',
+ P_PATH='@quadcopter.\quadcopter project\(sch_1):page1_ins24693@quadcopter.\r_7.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'R_7_RESC2012X60N_4.7K':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTER.QUADCOPTER PROJECT(SCH_1):INS24765@QUADCOPTER.R_7.NORMAL(CHIPS)':
+ C_PATH='@quadcopter.\quadcopter project\(sch_1):ins24765@quadcopter.\r_7.normal\(chips)',
+ P_PATH='@quadcopter.\quadcopter project\(sch_1):page1_ins24765@quadcopter.\r_7.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'R_7_RESC2012X60N_4.7K':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTER.QUADCOPTER PROJECT(SCH_1):INS24901@QUADCOPTER.R_7.NORMAL(CHIPS)':
+ C_PATH='@quadcopter.\quadcopter project\(sch_1):ins24901@quadcopter.\r_7.normal\(chips)',
+ P_PATH='@quadcopter.\quadcopter project\(sch_1):page1_ins24901@quadcopter.\r_7.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R15 'R_7_RESC2012X60N_510':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTER.QUADCOPTER PROJECT(SCH_1):INS24627@QUADCOPTER.R_7.NORMAL(CHIPS)':
+ C_PATH='@quadcopter.\quadcopter project\(sch_1):ins24627@quadcopter.\r_7.normal\(chips)',
+ P_PATH='@quadcopter.\quadcopter project\(sch_1):page1_ins24627@quadcopter.\r_7.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R16 'R_7_RESC2012X60N_510':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTER.QUADCOPTER PROJECT(SCH_1):INS25658@QUADCOPTER.R_7.NORMAL(CHIPS)':
+ C_PATH='@quadcopter.\quadcopter project\(sch_1):ins25658@quadcopter.\r_7.normal\(chips)',
+ P_PATH='@quadcopter.\quadcopter project\(sch_1):page1_ins25658@quadcopter.\r_7.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_7_RESC2012X60N_10K':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTER.QUADCOPTER PROJECT(SCH_1):INS24100@QUADCOPTER.R_7.NORMAL(CHIPS)':
+ C_PATH='@quadcopter.\quadcopter project\(sch_1):ins24100@quadcopter.\r_7.normal\(chips)',
+ P_PATH='@quadcopter.\quadcopter project\(sch_1):page1_ins24100@quadcopter.\r_7.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_7_RESC2012X60N_100K':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTER.QUADCOPTER PROJECT(SCH_1):INS24381@QUADCOPTER.R_7.NORMAL(CHIPS)':
+ C_PATH='@quadcopter.\quadcopter project\(sch_1):ins24381@quadcopter.\r_7.normal\(chips)',
+ P_PATH='@quadcopter.\quadcopter project\(sch_1):page1_ins24381@quadcopter.\r_7.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_7_RESC2012X60N_100K':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTER.QUADCOPTER PROJECT(SCH_1):INS24418@QUADCOPTER.R_7.NORMAL(CHIPS)':
+ C_PATH='@quadcopter.\quadcopter project\(sch_1):ins24418@quadcopter.\r_7.normal\(chips)',
+ P_PATH='@quadcopter.\quadcopter project\(sch_1):page1_ins24418@quadcopter.\r_7.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_7_RESC2012X60N_510':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTER.QUADCOPTER PROJECT(SCH_1):INS24548@QUADCOPTER.R_7.NORMAL(CHIPS)':
+ C_PATH='@quadcopter.\quadcopter project\(sch_1):ins24548@quadcopter.\r_7.normal\(chips)',
+ P_PATH='@quadcopter.\quadcopter project\(sch_1):page1_ins24548@quadcopter.\r_7.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'R_7_RESC2012X60N_20':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTER.QUADCOPTER PROJECT(SCH_1):INS25267@QUADCOPTER.R_7.NORMAL(CHIPS)':
+ C_PATH='@quadcopter.\quadcopter project\(sch_1):ins25267@quadcopter.\r_7.normal\(chips)',
+ P_PATH='@quadcopter.\quadcopter project\(sch_1):page1_ins25267@quadcopter.\r_7.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW1 'SW PUSHBUTTON-SPST_PTS636SM25FSMTRLFS_RST':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTER.QUADCOPTER PROJECT(SCH_1):INS24197@DISCRETE.SW PUSHBUTTON-SPST.NORMAL(CHIPS)':
+ C_PATH='@quadcopter.\quadcopter project\(sch_1):ins24197@discrete.\sw pushbutton-spst.normal\(chips)',
+ P_PATH='@quadcopter.\quadcopter project\(sch_1):page1_ins24197@discrete.\sw pushbutton-spst.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U10 'ESC_0_ESC_ESC3':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTER.QUADCOPTER PROJECT(SCH_1):INS16077@QUADCOPTER.ESC_0.NORMAL(CHIPS)':
+ C_PATH='@quadcopter.\quadcopter project\(sch_1):ins16077@quadcopter.\esc_0.normal\(chips)',
+ P_PATH='@quadcopter.\quadcopter project\(sch_1):page1_ins16077@quadcopter.\esc_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U11 'ESC_0_ESC_ESC4':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTER.QUADCOPTER PROJECT(SCH_1):INS16099@QUADCOPTER.ESC_0.NORMAL(CHIPS)':
+ C_PATH='@quadcopter.\quadcopter project\(sch_1):ins16099@quadcopter.\esc_0.normal\(chips)',
+ P_PATH='@quadcopter.\quadcopter project\(sch_1):page1_ins16099@quadcopter.\esc_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U12 '+5V_VCC3_+5V':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTER.QUADCOPTER PROJECT(SCH_1):INS16637@STM32F103C8T6.+5V.NORMAL(CHIPS)':
+ C_PATH='@quadcopter.\quadcopter project\(sch_1):ins16637@stm32f103c8t6.\+5v.normal\(chips)',
+ P_PATH='@quadcopter.\quadcopter project\(sch_1):page1_ins16637@stm32f103c8t6.\+5v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U13 'GND_0_VCC3_GND':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTER.QUADCOPTER PROJECT(SCH_1):INS16703@QUADCOPTER.GND_0.NORMAL(CHIPS)':
+ C_PATH='@quadcopter.\quadcopter project\(sch_1):ins16703@quadcopter.\gnd_0.normal\(chips)',
+ P_PATH='@quadcopter.\quadcopter project\(sch_1):page1_ins16703@quadcopter.\gnd_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U14 '3_0.3V_VCC3_3.3V':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTER.QUADCOPTER PROJECT(SCH_1):INS17171@QUADCOPTER.3_0.3V.NORMAL(CHIPS)':
+ C_PATH='@quadcopter.\quadcopter project\(sch_1):ins17171@quadcopter.\3_0.3v.normal\(chips)',
+ P_PATH='@quadcopter.\quadcopter project\(sch_1):page1_ins17171@quadcopter.\3_0.3v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U15 'AMS1117-3_2.3_SOT229P700X180-4N_AMS1117-3.3':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTER.QUADCOPTER PROJECT(SCH_1):INS55435@QUADCOPTER.AMS1117-3_2.3.NORMAL(CHIPS)':
+ C_PATH='@quadcopter.\quadcopter project\(sch_1):ins55435@quadcopter.\ams1117-3_2.3.normal\(chips)',
+ P_PATH='@quadcopter.\quadcopter project\(sch_1):page1_ins55435@quadcopter.\ams1117-3_2.3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U16 'TYPEC_1_GCT_USB4105-GF-A_TYPEC':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTER.QUADCOPTER PROJECT(SCH_1):INS62885@QUADCOPTER.TYPEC_1.NORMAL(CHIPS)':
+ C_PATH='@quadcopter.\quadcopter project\(sch_1):ins62885@quadcopter.\typec_1.normal\(chips)',
+ P_PATH='@quadcopter.\quadcopter project\(sch_1):page1_ins62885@quadcopter.\typec_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'ST-LINK_SMD_SWD':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTER.QUADCOPTER PROJECT(SCH_1):INS6537@STM32F103C8T6.ST-LINK.NORMAL(CHIPS)':
+ C_PATH='@quadcopter.\quadcopter project\(sch_1):ins6537@stm32f103c8t6.\st-link.normal\(chips)',
+ P_PATH='@quadcopter.\quadcopter project\(sch_1):page1_ins6537@stm32f103c8t6.\st-link.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'BOOT_0_BOOT_BOOT':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTER.QUADCOPTER PROJECT(SCH_1):INS8657@QUADCOPTER.BOOT_0.NORMAL(CHIPS)':
+ C_PATH='@quadcopter.\quadcopter project\(sch_1):ins8657@quadcopter.\boot_0.normal\(chips)',
+ P_PATH='@quadcopter.\quadcopter project\(sch_1):page1_ins8657@quadcopter.\boot_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'MPU6050_IC_MPU6050_MPU6050':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTER.QUADCOPTER PROJECT(SCH_1):INS11466@STM32F103C8T6.MPU6050.NORMAL(CHIPS)':
+ C_PATH='@quadcopter.\quadcopter project\(sch_1):ins11466@stm32f103c8t6.\mpu6050.normal\(chips)',
+ P_PATH='@quadcopter.\quadcopter project\(sch_1):page1_ins11466@stm32f103c8t6.\mpu6050.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U7 'ESC_0_ESC_ESC1':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTER.QUADCOPTER PROJECT(SCH_1):INS15963@QUADCOPTER.ESC_0.NORMAL(CHIPS)':
+ C_PATH='@quadcopter.\quadcopter project\(sch_1):ins15963@quadcopter.\esc_0.normal\(chips)',
+ P_PATH='@quadcopter.\quadcopter project\(sch_1):page1_ins15963@quadcopter.\esc_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U8 'RECIVER_CH4B_RECIVER':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTER.QUADCOPTER PROJECT(SCH_1):INS15990@STM32F103C8T6.RECIVER.NORMAL(CHIPS)':
+ C_PATH='@quadcopter.\quadcopter project\(sch_1):ins15990@stm32f103c8t6.\reciver.normal\(chips)',
+ P_PATH='@quadcopter.\quadcopter project\(sch_1):page1_ins15990@stm32f103c8t6.\reciver.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U9 'ESC_0_ESC_ESC2':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTER.QUADCOPTER PROJECT(SCH_1):INS16055@QUADCOPTER.ESC_0.NORMAL(CHIPS)':
+ C_PATH='@quadcopter.\quadcopter project\(sch_1):ins16055@quadcopter.\esc_0.normal\(chips)',
+ P_PATH='@quadcopter.\quadcopter project\(sch_1):page1_ins16055@quadcopter.\esc_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y1 'CRYSTAL_XTAL500X320X130N_8MHZ':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTER.QUADCOPTER PROJECT(SCH_1):INS1457@DISCRETE.CRYSTAL.NORMAL(CHIPS)':
+ C_PATH='@quadcopter.\quadcopter project\(sch_1):ins1457@discrete.\crystal.normal\(chips)',
+ P_PATH='@quadcopter.\quadcopter project\(sch_1):page1_ins1457@discrete.\crystal.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y2 'CRYSTAL1-4/SM_MC-306_CRYSTAL1-4/SM':;
+
+SECTION_NUMBER 1
+ '@QUADCOPTER.QUADCOPTER PROJECT(SCH_1):INS2868@DISCRETE.CRYSTAL1-4/SM.NORMAL(CHIPS)':
+ C_PATH='@quadcopter.\quadcopter project\(sch_1):ins2868@discrete.\crystal1-4/sm.normal\(chips)',
+ P_PATH='@quadcopter.\quadcopter project\(sch_1):page1_ins2868@discrete.\crystal1-4/sm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

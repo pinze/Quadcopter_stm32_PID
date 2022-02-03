@@ -1,0 +1,131 @@
+\t (00:00:06) allegro 17.4 P001 Windows SPB 64-bit Edition
+\t (00:00:06)     Journal start - Wed Oct 20 20:07:37 2021
+\t (00:00:06)         Host=DESKTOP-SKS0O3V User=patri Pid=9628 CPUs=12
+\t (00:00:06) CmdLine= c:\cadence\spb_17.4\tools\bin\allegro.exe C:\Users\patri\OneDrive\桌面\quadcopter OrCad2\PZ100\pz100.dra
+\t (00:00:06) 
+   (00:00:06) Loading axlcore.cxt 
+\t (00:00:09) Opening existing design...
+\e (00:00:09) ERROR(SPMHDB-181): The current version of software is unable to open design C:/Users/patri/OneDrive/桌面/quadcopter OrCad2/PZ100/pz100.dra.
+The design was last saved using version 15 and must be updated using DB Doctor. [help]
+\e (00:00:09) ERROR(SPMHDB-181): The current version of software is unable to open design C:/Users/patri/OneDrive/桌面/quadcopter OrCad2/PZ100/pz100.dra.
+The design was last saved using version 15 and must be updated using DB Doctor. [help]
+\i (00:00:11) fillin confirm
+\t (00:00:11) Starting new design...
+\i (00:00:12) trapsize 116667
+\i (00:00:12) generaledit 
+\i (00:00:14) trapsize 815
+\i (00:00:14) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged unnamed
+\i (00:00:15) zoom out 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom out 15815.2 5755.4
+\i (00:00:15) trapsize 1314
+\i (00:00:15) zoom out 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom out 25486.8 9275.1
+\i (00:00:15) trapsize 1314
+\i (00:00:15) zoom out 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom out 25486.8 9275.1
+\i (00:00:15) trapsize 1314
+\i (00:00:15) zoom out 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom out 25486.8 9275.1
+\i (00:00:15) trapsize 1314
+\i (00:00:15) zoom out 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom out 25486.8 9275.1
+\i (00:00:15) trapsize 1314
+\i (00:00:15) zoom out 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom out 25486.8 9275.1
+\i (00:00:15) trapsize 1314
+\i (00:00:15) zoom out 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom out 25486.8 9275.1
+\i (00:00:15) trapsize 1314
+\i (00:00:15) zoom in 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in 25276.6 9406.5
+\i (00:00:15) trapsize 657
+\i (00:00:15) zoom in 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in 16690.9 9406.6
+\i (00:00:15) trapsize 328
+\i (00:00:15) zoom in 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in 16690.9 9406.6
+\i (00:00:15) trapsize 164
+\i (00:00:15) zoom in 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in 16687.6 9406.6
+\i (00:00:15) trapsize 82
+\i (00:00:16) zoom out 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out 16554.6 9408.2
+\i (00:00:16) trapsize 164
+\i (00:00:16) zoom out 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out 16554.7 9408.3
+\i (00:00:16) trapsize 328
+\i (00:00:16) zoom out 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out 16554.7 9408.3
+\i (00:00:16) trapsize 657
+\i (00:00:16) zoom out 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out 15613.6 9408.3
+\i (00:00:16) trapsize 1314
+\i (00:00:16) zoom out 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out 23069.5 9432.8
+\i (00:00:16) trapsize 1314
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in 23069.5 9432.8
+\i (00:00:16) trapsize 657
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in 15613.6 9432.8
+\i (00:00:16) trapsize 328
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in 15613.6 9432.8
+\i (00:00:16) trapsize 164
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in 15613.6 9432.8
+\i (00:00:16) trapsize 82
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in 15613.6 9432.8
+\i (00:00:16) trapsize 41
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in 15613.6 9432.9
+\i (00:00:16) trapsize 21
+\i (00:00:17) zoom in 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom in 15614.8 9434.1
+\i (00:00:17) trapsize 10
+\i (00:00:17) zoom in 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom in 15614.9 9434.1
+\i (00:00:17) trapsize 5
+\i (00:00:17) zoom out 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom out 15614.9 9434.4
+\i (00:00:17) trapsize 10
+\i (00:00:17) zoom out 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom out 15615.0 9434.3
+\i (00:00:17) trapsize 21
+\i (00:00:17) zoom out 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom out 15614.9 9434.3
+\i (00:00:17) trapsize 41
+\i (00:00:17) zoom out 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom out 15614.9 9434.4
+\i (00:00:17) trapsize 82
+\i (00:00:18) exit 
+\t (00:00:19)     Journal end - Wed Oct 20 20:07:50 2021

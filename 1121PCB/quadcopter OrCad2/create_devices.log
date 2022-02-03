@@ -1,0 +1,52 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Create_devices LOG file                                          )
+(                                                                     )
+(    Drawing          : TEST.brd                                      )
+(    Software Version : unreleased                                    )
+(    Date/Time        : Thu Oct 21 02:34:57 2021                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Device file 'C:/Users/patri/OneDrive/桌面/quadcopter OrCad2/c_capc1608x90n_100n.txt': written successfully.
+Device file 'C:/Users/patri/OneDrive/桌面/quadcopter OrCad2/c_capc1608x90n_20pf.txt': written successfully.
+Device file 'C:/Users/patri/OneDrive/桌面/quadcopter OrCad2/c_capc1608x90n_001uf.txt': written successfully.
+Device file 'C:/Users/patri/OneDrive/桌面/quadcopter OrCad2/c_capc1608x90n_01uf.txt': written successfully.
+Device file 'C:/Users/patri/OneDrive/桌面/quadcopter OrCad2/c_capc1608x90n_220pf.txt': written successfully.
+Device file 'C:/Users/patri/OneDrive/桌面/quadcopter OrCad2/c_capc1608x90n_47uf.txt': written successfully.
+Device file 'C:/Users/patri/OneDrive/桌面/quadcopter OrCad2/c_capc1608x90n_1uf.txt': written successfully.
+Device file 'C:/Users/patri/OneDrive/桌面/quadcopter OrCad2/c_capc2012x140n_10uf.txt': written successfully.
+Device file 'C:/Users/patri/OneDrive/桌面/quadcopter OrCad2/d_2_do-214_d.txt': written successfully.
+Device file 'C:/Users/patri/OneDrive/桌面/quadcopter OrCad2/led_2_ledm1608x55_led.txt': written successfully.
+Device file 'C:/Users/patri/OneDrive/桌面/quadcopter OrCad2/led_3_ledm1608x55_led.txt': written successfully.
+Device file 'C:/Users/patri/OneDrive/桌面/quadcopter OrCad2/f103c8t6u1_qfp50p900x900x160-48n_f103c8t6u1.txt': written successfully.
+Device file 'C:/Users/patri/OneDrive/桌面/quadcopter OrCad2/r_1_resc1608x50n_510.txt': written successfully.
+Device file 'C:/Users/patri/OneDrive/桌面/quadcopter OrCad2/r_1_resc1608x50n_15k.txt': written successfully.
+Device file 'C:/Users/patri/OneDrive/桌面/quadcopter OrCad2/r_1_resc1608x50n_20.txt': written successfully.
+Device file 'C:/Users/patri/OneDrive/桌面/quadcopter OrCad2/r_resc1608x50n_1m.txt': written successfully.
+Device file 'C:/Users/patri/OneDrive/桌面/quadcopter OrCad2/r_1_resc1608x50n_47k.txt': written successfully.
+Device file 'C:/Users/patri/OneDrive/桌面/quadcopter OrCad2/r_1_resc1608x50n_1k.txt': written successfully.
+Device file 'C:/Users/patri/OneDrive/桌面/quadcopter OrCad2/r_1_resc1608x50n_10k.txt': written successfully.
+Device file 'C:/Users/patri/OneDrive/桌面/quadcopter OrCad2/r_1_resc1608x50n_100k.txt': written successfully.
+Device file 'C:/Users/patri/OneDrive/桌面/quadcopter OrCad2/swpushbutton-spst_pts636sm25fsmtrlfs_rst.txt': written successfully.
+Device file 'C:/Users/patri/OneDrive/桌面/quadcopter OrCad2/usb_gct_usb3090-xx-x_reve_usb.txt': written successfully.
+Device file 'C:/Users/patri/OneDrive/桌面/quadcopter OrCad2/esc_0_esc_esc3.txt': written successfully.
+Device file 'C:/Users/patri/OneDrive/桌面/quadcopter OrCad2/esc_0_esc_esc4.txt': written successfully.
+Device file 'C:/Users/patri/OneDrive/桌面/quadcopter OrCad2/5v_vcc3_5v.txt': written successfully.
+Device file 'C:/Users/patri/OneDrive/桌面/quadcopter OrCad2/gnd_0_gnd3_gnd.txt': written successfully.
+Device file 'C:/Users/patri/OneDrive/桌面/quadcopter OrCad2/3_03v_vcc33_33v.txt': written successfully.
+Device file 'C:/Users/patri/OneDrive/桌面/quadcopter OrCad2/st-link_smd_swd.txt': written successfully.
+Device file 'C:/Users/patri/OneDrive/桌面/quadcopter OrCad2/boot_boot_boot.txt': written successfully.
+Device file 'C:/Users/patri/OneDrive/桌面/quadcopter OrCad2/mpu6050_ic_mpu6050_mpu6050.txt': written successfully.
+Device file 'C:/Users/patri/OneDrive/桌面/quadcopter OrCad2/4a2d_4a2d_4a2d.txt': written successfully.
+Device file 'C:/Users/patri/OneDrive/桌面/quadcopter OrCad2/esc_0_esc_esc1.txt': written successfully.
+Device file 'C:/Users/patri/OneDrive/桌面/quadcopter OrCad2/reciver_ch4b_reciver.txt': written successfully.
+Device file 'C:/Users/patri/OneDrive/桌面/quadcopter OrCad2/esc_0_esc_esc2.txt': written successfully.
+Device file 'C:/Users/patri/OneDrive/桌面/quadcopter OrCad2/f103c8t6u2_stm32f103c8t6_f103c8t6u2.txt': written successfully.
+Device file 'C:/Users/patri/OneDrive/桌面/quadcopter OrCad2/crystal_xtal_ecs-80-32-4x_8mhz.txt': written successfully.
+Device file 'C:/Users/patri/OneDrive/桌面/quadcopter OrCad2/crystal1-4sm_mc-306_crystal1-4sm.txt': written successfully.
+
+  Created device files: 37
+

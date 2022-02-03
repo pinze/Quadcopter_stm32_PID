@@ -1,0 +1,11 @@
+Drill Customization Report
+C:/Users/patri/OneDrive/桌面/1116PCB/quadcopter OrCad2/PCB1.brd
+Tue Nov 16 21:20:47 2021
+
+#,,Type,Size X,Size Y,ToolSize,+ Tolerance,- Tolerance,Symbol Figure,Symbol Characters,Symbol Size X,Symbol Size Y,Plating,Non-standard Drill,Quantity
+1,,Circle Drill,0.3302,,,0.1500,0.1500,Cross,,0.3302,0.3302,Plated,,64
+2,,Circle Drill,1.0000,,,0.1500,0.1500,Square,,1.0000,1.0000,Plated,,29
+3,,Circle Drill,2.2000,,,0.1500,0.1500,Hexagon X,,2.2000,2.2000,Plated,,4
+4,,Circle Drill,0.6500,,,0.1500,0.1500,Hexagon Y,,0.6500,0.6500,Non-Plated,,2
+5,,Oval Slot,1.4000,0.6000,,0.1500,0.1500,Oblong X,OA,1.4000,0.6000,Plated,,2
+6,,Oval Slot,1.7000,0.6000,,0.1500,0.1500,Oblong X,OB,1.7000,0.6000,Plated,,2

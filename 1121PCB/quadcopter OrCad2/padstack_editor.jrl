@@ -1,0 +1,8 @@
+\t (00:00:00) padstack_editor 17.4 S021 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Tue Nov  9 01:30:17 2021
+\t (00:00:00)         Host=DESKTOP-SKS0O3V User=patri Pid=13456 CPUs=12
+\t (00:00:00) CmdLine= c:\cadence\cadence\cadence_spb_17.4-2019\tools\bin\padstack_editor.exe C:\Users\patri\OneDrive\桌面\1101PCB\quadcopter OrCad2\h_c45.pad
+\t (00:00:00) 
+\d (00:00:02) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\d (00:00:03) QtSignal GuidedTabsParent GuidedTabs currentChanged "Secondary Drill"
+\t (00:00:04)     Journal end - Tue Nov  9 01:30:21 2021

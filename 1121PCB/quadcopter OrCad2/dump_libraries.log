@@ -1,0 +1,37 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dump Library Log                                                 )
+(                                                                     )
+(    Software Version : unreleased                                    )
+(    Date/Time        : Thu Oct 21 02:34:57 2021                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+*** file: C:/Users/patri/OneDrive/桌面/quadcopter OrCad2/TEST.brd ***
+
+
+
+  *** Creating all device files (see create_devices.log) ***
+
+
+  *** Creating padstacks. ***
+
+  S_R28T156D5M28_156P28_156 being dumped.
+
+
+  *** Creating shape symbols (.dra and .ssm) ***
+
+  ps_r28_156_d500 being dumped.
+
+
+
+*********************** Summary *********************
+ERRORs reported:                           0
+
+Number of padstacks dumped:                1
+Number of shape symbols dumped:            1
+
+Total number of symbols dumped:            1
+*****************************************************
+

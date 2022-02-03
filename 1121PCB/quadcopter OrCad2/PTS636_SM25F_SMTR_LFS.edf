@@ -1,0 +1,214 @@
+
+(EDIF
+  (rename PTS636_SM25F_SMTR_LFS "PTS636_SM25F_SMTR_LFS")
+  (EDIFVersion 2 0 0)
+  (EDIFLevel 0)
+  (keywordMap (keywordLevel 0))
+  (status
+    (written
+      (timestamp 2021 09 28 00 35 10)
+      (dataOrigin "SnapEDA snapeda.comCopyright - This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0")
+      (program "SnapEDA Converter")
+    )
+  )
+  (library
+    (rename PTS636_SM25F_SMTR_LFS "PTS636_SM25F_SMTR_LFS")
+    (EDIFLevel 0)
+    (technology
+      (numberDefinition
+        (scale 1 (e 254 -9) (unit DISTANCE))
+        (gridMap 1 1)
+      )
+      (figureGroup PINNAME
+        (cornerType TRUNCATE)
+        (endType TRUNCATE)
+        (pathWidth 0)
+        (textHeight 4811)
+      )
+      (figureGroup PINNUMBER
+        (cornerType TRUNCATE)
+        (endType TRUNCATE)
+        (textHeight 9000)
+        (pathWidth 0)
+      )
+      (figureGroup PORT
+        (pathWidth 1000)
+        (textHeight 9000)
+      )
+      (figureGroup PARTBODY
+        (pathWidth 1000)
+        (borderWidth 1000)
+        (textHeight 6000)
+      )
+    )
+    (cell
+      (rename PTS636_SM25F_SMTR_LFS "PTS636_SM25F_SMTR_LFS")
+      (cellType GENERIC)
+      (view
+        (rename NORMAL "Normal")
+        (viewType SCHEMATIC)
+        (interface
+          (designator "J")
+          (property (rename VALUE "Value") (string "PTS636_SM25F_SMTR_LFS"))
+          (port
+            (rename COM "COM")
+            (direction INOUT)
+            (property
+              (rename TYPE "Type")
+              (string "IO")
+            )
+            (designator "1")
+            (property
+              (rename ORDER "Order")
+              (integer 0)
+              (owner "OrCAD")
+            )
+          )
+          (port
+            (rename NO "NO")
+            (direction INOUT)
+            (property
+              (rename TYPE "Type")
+              (string "IO")
+            )
+            (designator "2")
+            (property
+              (rename ORDER "Order")
+              (integer 1)
+              (owner "OrCAD")
+            )
+          )
+          (symbol
+            (boundingBox (rectangle (pt 0 -20000) (pt 70000 10000)))
+            (portImplementation
+              (name COM
+                (display PINNAME
+                  (justify CENTERLEFT)
+                  (orientation R0)
+                  (origin (pt 20000 0))
+                )
+              )
+              (keywordDisplay DESIGNATOR
+                (display PINNUMBER
+                  (justify CENTERRIGHT)
+                  (orientation R0)
+                  (origin (pt 3937 0))
+                )
+              )
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt 0 0)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt 0 0)
+                    (pt 20000 0)
+                  )
+                )
+              )
+            )
+            (portImplementation
+              (name NO
+                (display PINNAME
+                  (justify CENTERLEFT)
+                  (orientation R0)
+                  (origin (pt 20000 -10000))
+                )
+              )
+              (keywordDisplay DESIGNATOR
+                (display PINNUMBER
+                  (justify CENTERRIGHT)
+                  (orientation R0)
+                  (origin (pt 3937 -10000))
+                )
+              )
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt 0 -10000)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt 0 -10000)
+                    (pt 20000 -10000)
+                  )
+                )
+              )
+            )
+            (figure PARTBODY
+              (path (pointList (pt 20000 10000) (pt 70000 10000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 70000 -20000) (pt 70000 10000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 70000 -20000) (pt 20000 -20000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 20000 10000) (pt 20000 -20000)))
+            )
+            (keywordDisplay DESIGNATOR
+              (display PARTBODY
+                (justify CENTERLEFT)
+                (orientation R0)
+                (origin (pt 75000 30000))
+              )
+            )
+            (propertyDisplay VALUE
+              (display PARTBODY
+                (justify CENTERLEFT)
+                (orientation R0)
+                (origin (pt 75000 20000))
+              )
+            )
+            (property (rename PCB_Footprint "PCB Footprint") (string "PTS636SM25FSMTRLFS"))
+            (property
+              (rename Availability "Availability")
+              (string
+              (stringDisplay "In Stock"))
+            )
+            (property
+              (rename Price "Price")
+              (string
+              (stringDisplay "None"))
+            )
+            (property
+              (rename Package "Package")
+              (string
+              (stringDisplay "None"))
+            )
+            (property
+              (rename MP "MP")
+              (string
+              (stringDisplay "PTS636 SM25F SMTR LFS"))
+            )
+            (property
+              (rename Description "Description")
+              (string
+              (stringDisplay "
+Tactile Switch SPST-NO Top Actuated Surface Mount
+"))
+            )
+            (property
+              (rename MF "MF")
+              (string
+              (stringDisplay "C&K"))
+            )
+            (property
+              (rename Purchase_URL "Purchase_URL")
+              (string
+              (stringDisplay "https://pricing.snapeda.com/search/part/PTS636 SM25F SMTR LFS/?ref=eda"))
+            )
+          )
+        )
+      )
+    )
+  )
+)

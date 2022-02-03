@@ -1,0 +1,201 @@
+(ExpressProject "quadcopter"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "17.4-2019 S021 (3976684)  [9/12/2021]-[11/16/21]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File ".\stm32f103c8t6.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\quadcopter.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (Netlist_TAB "0")
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory"
+       "C:\Users\patri\OneDrive\桌面\1116PCB\quadcopter OrCad2\allegro")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "FALSE")
+    ("Allegro Netlist Output Board File" ".\allegro\quadcopter.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "255")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (Display_Online_DRC_Results "FALSE"))
+  (Folder "Layout")
+  (Folder "Outputs"
+    (File ".\quadcopter-placements.csv"
+      (Type "Report"))
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (typec
+      (FullPartName "typec.Normal")
+      (LibraryName
+         "C:\USERS\PATRI\ONEDRIVE\�ୱ\1115PCB\QUADCOPTER ORCAD2\STM32F103C8T6.OLB")
+      (DeviceIndex "0"))
+    (AMS1117-3.3
+      (FullPartName "AMS1117-3.3.Normal")
+      (LibraryName
+         "C:\USERS\PATRI\ONEDRIVE\桌面\1101PCB\QUADCOPTER ORCAD2\STM32F103C8T6.OLB")
+      (DeviceIndex "0"))
+    (PINPAD
+      (FullPartName "PINPAD.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\MISC.OLB")
+      (DeviceIndex "0"))
+    (d
+      (FullPartName "d.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\EVAL.OLB")
+      (DeviceIndex "0"))
+    ("SW PUSHBUTTON-SPST"
+      (FullPartName "SW PUSHBUTTON-SPST.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\IEC\DEVICE.OLB")
+      (DeviceIndex "0"))
+    (LED
+      (FullPartName "LED.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\IEC\DEVICE.OLB")
+      (DeviceIndex "0"))
+    (3.3V
+      (FullPartName "3.3V.Normal")
+      (LibraryName
+         "C:\USERS\PATRI\ONEDRIVE\桌面\QUADCOPTER ORCAD2\STM32F103C8T6.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (gnd
+      (FullPartName "gnd.Normal")
+      (LibraryName
+         "C:\USERS\PATRI\ONEDRIVE\桌面\QUADCOPTER ORCAD2\STM32F103C8T6.OLB")
+      (DeviceIndex "0"))
+    (+5V
+      (FullPartName "+5V.Normal")
+      (LibraryName
+         "C:\USERS\PATRI\ONEDRIVE\桌面\QUADCOPTER ORCAD2\STM32F103C8T6.OLB")
+      (DeviceIndex "0"))
+    (reciver
+      (FullPartName "reciver.Normal")
+      (LibraryName
+         "C:\USERS\PATRI\ONEDRIVE\桌面\QUADCOPTER ORCAD2\STM32F103C8T6.OLB")
+      (DeviceIndex "0"))
+    (esc
+      (FullPartName "esc.Normal")
+      (LibraryName
+         "C:\USERS\PATRI\ONEDRIVE\桌面\QUADCOPTER ORCAD2\STM32F103C8T6.OLB")
+      (DeviceIndex "0"))
+    (4A2D
+      (FullPartName "4A2D.Normal")
+      (LibraryName
+         "C:\USERS\PATRI\ONEDRIVE\桌面\QUADCOPTER ORCAD2\STM32F103C8T6.OLB")
+      (DeviceIndex "0"))
+    (C
+      (FullPartName "C.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (VCC_BAR
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (MPU6050
+      (FullPartName "MPU6050.Normal")
+      (LibraryName
+         "C:\USERS\PATRI\ONEDRIVE\桌面\QUADCOPTER ORCAD2\STM32F103C8T6.OLB")
+      (DeviceIndex "0"))
+    (BOOT
+      (FullPartName "BOOT.Normal")
+      (LibraryName
+         "C:\USERS\PATRI\ONEDRIVE\桌面\QUADCOPTER ORCAD2\STM32F103C8T6.OLB")
+      (DeviceIndex "0"))
+    (0
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    ("SW PUSHBUTTON-SPST-2/SM"
+      (FullPartName "SW PUSHBUTTON-SPST-2/SM.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("SW DPST"
+      (FullPartName "SW DPST.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\OLDLIBS\PCBDEV.OLB")
+      (DeviceIndex "0"))
+    (PORTLEFT-L
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (ST-LINK
+      (FullPartName "ST-LINK.Normal")
+      (LibraryName
+         "C:\USERS\PATRI\ONEDRIVE\桌面\QUADCOPTER ORCAD2\STM32F103C8T6.OLB")
+      (DeviceIndex "0"))
+    (usb
+      (FullPartName "usb.Normal")
+      (LibraryName
+         "C:\USERS\PATRI\ONEDRIVE\桌面\QUADCOPTER ORCAD2\STM32F103C8T6.OLB")
+      (DeviceIndex "0"))
+    (CRYSTAL1-4/SM
+      (FullPartName "CRYSTAL1-4/SM.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (GND_POWER
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\quadcopter.dsn")
+      (Path "Design Resources" ".\quadcopter.dsn" "Quadcopter project")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library" ".\stm32f103c8t6.olb")
+      (Path "Outputs")
+      (Select "Design Resources" ".\quadcopter.dsn" "Quadcopter project"
+         "Quadcopter"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 907"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1674 26 927")
+        (Scroll "0 84")
+        (Zoom "176")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\PATRI\ONEDRIVE\桌面\1121PCB\QUADCOPTER ORCAD2\QUADCOPTER.DSN")
+      (Schematic "Quadcopter project")
+      (Page "Quadcopter")))
+  (MPSSessionName "patri")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs")
+  (ISPCBBASICLICENSE "false")
+  (LastUsedLibraryBrowseDirectory
+     "C:\Cadence\SPB_17.4\tools\capture\library\fpga\xilinx\xpla"))

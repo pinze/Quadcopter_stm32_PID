@@ -1,0 +1,243 @@
+
+(EDIF
+  (rename LTW_45_C191TS5 "LTW-C191TS5")
+  (EDIFVersion 2 0 0)
+  (EDIFLevel 0)
+  (keywordMap (keywordLevel 0))
+  (status
+    (written
+      (timestamp 2018 06 28 17 58 06)
+      (dataOrigin "SnapEDA snapeda.comCopyright - This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0")
+      (program "SnapEDA Converter")
+    )
+  )
+  (library
+    (rename LTW_45_C191TS5 "LTW-C191TS5")
+    (EDIFLevel 0)
+    (technology
+      (numberDefinition
+        (scale 1 (e 254 -9) (unit DISTANCE))
+        (gridMap 1 1)
+      )
+      (figureGroup PINNAME
+        (cornerType TRUNCATE)
+        (endType TRUNCATE)
+        (pathWidth 0)
+        (textHeight 4811)
+      )
+      (figureGroup PINNUMBER
+        (cornerType TRUNCATE)
+        (endType TRUNCATE)
+        (textHeight 9000)
+        (pathWidth 0)
+      )
+      (figureGroup PORT
+        (pathWidth 1000)
+        (textHeight 9000)
+      )
+      (figureGroup PARTBODY
+        (pathWidth 1000)
+        (borderWidth 1000)
+        (textHeight 6000)
+      )
+    )
+    (cell
+      (rename LTW_45_C191TS5 "LTW-C191TS5")
+      (cellType GENERIC)
+      (view
+        (rename NORMAL "Normal")
+        (viewType SCHEMATIC)
+        (interface
+          (designator "D")
+          (property (rename VALUE "Value") (string "LTW-C191TS5"))
+          (port
+            (rename A "A")
+            (designator "A")
+            (property
+              (rename TYPE "Type")
+              (string "PAS")
+            )
+            (property
+              (rename ORDER "Order")
+              (integer 0)
+              (owner "OrCAD")
+            )
+          )
+          (port
+            (rename C "C")
+            (designator "C")
+            (property
+              (rename TYPE "Type")
+              (string "PAS")
+            )
+            (property
+              (rename ORDER "Order")
+              (integer 1)
+              (owner "OrCAD")
+            )
+          )
+          (symbol
+            (boundingBox (rectangle (pt -30000 -5000) (pt 40000 13499)))
+            (portImplementation
+              (name C
+                (display PINNAME
+                  (justify CENTERLEFT)
+                  (orientation R0)
+                  (origin (pt -20000 0))
+                )
+              )
+              (keywordDisplay DESIGNATOR
+                (display PINNUMBER
+                  (justify CENTERRIGHT)
+                  (orientation R0)
+                  (origin (pt -26062 0))
+                )
+              )
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt -30000 0)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt -30000 0)
+                    (pt -20000 0)
+                  )
+                )
+              )
+            )
+            (portImplementation
+              (name A
+                (display PINNAME
+                  (justify CENTERRIGHT)
+                  (orientation R0)
+                  (origin (pt 30000 0))
+                )
+              )
+              (keywordDisplay DESIGNATOR
+                (display PINNUMBER
+                  (justify CENTERLEFT)
+                  (orientation R0)
+                  (origin (pt 36062 0))
+                )
+              )
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt 40000 0)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt 40000 0)
+                    (pt 30000 0)
+                  )
+                )
+              )
+            )
+            (figure PARTBODY
+              (path (pointList (pt 10000 -5000) (pt 0 0)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 0 0) (pt 10000 5000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 0 -5000) (pt 0 0)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 0 0) (pt 0 5000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 10000 -5000) (pt 10000 0)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 10000 0) (pt 10000 5000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 7000 8000) (pt 1500 13499)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 2500 7500) (pt -3000 13000)))
+            )
+            (keywordDisplay DESIGNATOR
+              (display PARTBODY
+                (justify LOWERLEFT)
+                (orientation R0)
+                (origin (pt -8023 16051))
+              )
+            )
+            (propertyDisplay VALUE
+              (display PARTBODY
+                (justify LOWERLEFT)
+                (orientation R0)
+                (origin (pt -8007 -15015))
+              )
+            )
+            (figure PARTBODY
+              (polygon
+                (pointList
+                  (pt 1500 13499)
+                  (pt 5000 12000)
+                  (pt 3000 10000)
+                )
+              )
+            )
+            (figure PARTBODY
+              (polygon
+                (pointList
+                  (pt -3000 13000)
+                  (pt 500 11500)
+                  (pt -1500 9500)
+                )
+              )
+            )
+            (figure PARTBODY
+              (path (pointList (pt -20000 0) (pt 0 0)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 10000 0) (pt 30000 0)))
+            )
+            (property (rename PCB_Footprint "PCB Footprint") (string "LEDM1608X55"))
+            (property
+              (rename Package "Package")
+              (string
+              (stringDisplay "0603 Lite-On"))
+            )
+            (property
+              (rename MF "MF")
+              (string
+              (stringDisplay "Lite-On"))
+            )
+            (property
+              (rename Availability "Availability")
+              (string
+              (stringDisplay "Good"))
+            )
+            (property
+              (rename MP "MP")
+              (string
+              (stringDisplay "LTW-C191TS5"))
+            )
+            (property
+              (rename Price "Price")
+              (string
+              (stringDisplay "0.17 USD"))
+            )
+            (property
+              (rename Description "Description")
+              (string
+              (stringDisplay "
+Yellow 1.6 x 0.8 x 0.55 mm 130° Tinted/Diffused 180 mcd 3.15V LED Surface Mount
+"))
+            )
+          )
+        )
+      )
+    )
+  )
+)

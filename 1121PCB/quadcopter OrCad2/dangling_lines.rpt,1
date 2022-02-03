@@ -1,0 +1,68 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dangling Line, Via and Antenna Report                            )
+(                                                                     )
+(    Drawing          : PCB1.brd                                      )
+(    Software Version : 17.4S021                                      )
+(    Date/Time        : Sun Nov 14 23:07:43 2021                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Report methodology:
+  - Dangling lines have at least one end not connected.
+  - Dangling vias have one or no connection
+      - Plus are not a test, thieving or netshort property via.
+  - Antenna vias do not have connections on their start and end layers.
+      - Plus they are not a thieving vias.
+      - Optionally, VOLTAGE nets, testvias and through vias can be suppressed with
+        the environment variable report_antennavia.
+      - Section may be suppressed by variable report_noantennavia.
+  - Not part of the current partition.
+  - To suppress items in dangle report add the OK_DANGLE property to the via
+    or connect line.
+
+<< Dangling Lines >>  - Location marked with a star (*) is dangling.
+  Net                 Layer                  Length       Location
+  ------------------------------------------------------------------------------------------
+  PA1                  TOP                   0.0700      (204.8200 148.5000) to *(204.7500 148.5000)
+  PA0                  BOTTOM                0.4050      (252.0950 172.0000) to *(252.5000 172.0000)
+  VCC_3.3              TOP                   0.6725      (251.4600 142.2400) to *(251.5000 141.7500)
+  VCC_3.3              TOP                   0.0300      (251.4600 142.2400) to *(251.4600 142.2100)
+  VCC_3.3              TOP                   0.0400     *(251.5000 144.5000) to  (251.4600 144.5000)
+  VCC_3.3              TOP                   0.0050      (216.5000 137.2550) to *(216.5000 137.2500)
+  VCC_3.3              TOP                   0.1800     *(178.0000 162.7500) to  (177.8200 162.7500)
+  VCC_3.3              BOTTOM                0.0700      (177.8200 162.7500) to *(177.7500 162.7500)
+  OSCOUT               TOP                   0.2500      (212.4050 152.3450) to *(212.4050 152.0950)
+  OSCIN                TOP                   0.0650     *(214.2500 155.5000) to  (214.3150 155.5000)
+  OSCIN                TOP                   0.0700      (204.8200 145.5000) to *(204.7500 145.5000)
+  N09709               TOP                   0.1150     *(178.2500 155.0000) to  (178.1350 155.0000)
+  GND                  TOP                   0.1900     *(237.9600 105.2150) to  (237.9600 105.4050)
+  GND                  TOP                   0.0800      (226.0000 118.4200) to *(226.0000 118.5000)
+  GND                  TOP                   0.2546      (226.3200 107.8200) to *(226.5000 108.0000)
+  N06124               TOP                   0.1270     *(180.6230 146.6270) to  (180.7500 146.6270)
+  +5V                  TOP                   0.1500     *(229.2500 98.2500) to  (229.4000 98.2500)
+  RESET                TOP                   0.3536     *(227.5000 140.0000) to  (227.7500 139.7500)
+  PB7                  TOP                   0.1050      (227.6450 125.0000) to *(227.7500 125.0000)
+  PA11                 TOP                   0.0400      (196.4600 145.5000) to *(196.5000 145.5000)
+
+
+<< Dangling Vias >>
+  Net                  Padstack               Location            Layers
+  ---------------------------------------------------------------------------
+  GND                  VIA                  (210.7500 145.7500) TOP/BOTTOM 
+  Dummy Net            MACHINE              (215.2649 168.2550) TOP/BOTTOM 
+  Dummy Net            MACHINE              (248.2649 135.2550) TOP/BOTTOM 
+  Dummy Net            MACHINE              (215.2649 102.2550) TOP/BOTTOM 
+  Dummy Net            MACHINE              (182.2650 135.2550) TOP/BOTTOM 
+
+
+<< Antenna Vias >>
+  Net                  Padstack               Location            Layers
+  ---------------------------------------------------------------------------
+  GND                  VIA                  (210.7500 145.7500) TOP/BOTTOM 
+
+<< Summary >>
+  Total dangling lines:      20
+  Total dangling vias:        5
+  Total antenna vias:         1

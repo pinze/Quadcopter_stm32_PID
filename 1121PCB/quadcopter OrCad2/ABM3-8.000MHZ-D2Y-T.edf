@@ -1,0 +1,207 @@
+
+(EDIF
+  (rename ABM3_45_8000MHZ_45_D2Y_45_T "ABM3-8000MHZ-D2Y-T")
+  (EDIFVersion 2 0 0)
+  (EDIFLevel 0)
+  (keywordMap (keywordLevel 0))
+  (status
+    (written
+      (timestamp 2018 05 23 04 41 51)
+      (dataOrigin "SnapEDA snapeda.comCopyright - This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0")
+      (program "SnapEDA Converter")
+    )
+  )
+  (library
+    (rename ABM3_45_8000MHZ_45_D2Y_45_T "ABM3-8000MHZ-D2Y-T")
+    (EDIFLevel 0)
+    (technology
+      (numberDefinition
+        (scale 1 (e 254 -9) (unit DISTANCE))
+        (gridMap 1 1)
+      )
+      (figureGroup PINNAME
+        (cornerType TRUNCATE)
+        (endType TRUNCATE)
+        (pathWidth 0)
+        (textHeight 4811)
+      )
+      (figureGroup PINNUMBER
+        (cornerType TRUNCATE)
+        (endType TRUNCATE)
+        (textHeight 9000)
+        (pathWidth 0)
+      )
+      (figureGroup PORT
+        (pathWidth 1000)
+        (textHeight 9000)
+      )
+      (figureGroup PARTBODY
+        (pathWidth 1000)
+        (borderWidth 1000)
+        (textHeight 6000)
+      )
+    )
+    (cell
+      (rename ABM3_45_8000MHZ_45_D2Y_45_T "ABM3-8000MHZ-D2Y-T")
+      (cellType GENERIC)
+      (view
+        (rename NORMAL "Normal")
+        (viewType SCHEMATIC)
+        (interface
+          (designator "Y")
+          (property (rename VALUE "Value") (string "ABM3-8000MHZ-D2Y-T"))
+          (port
+            (rename &1 "1")
+            (designator "1")
+            (property
+              (rename TYPE "Type")
+              (string "PAS")
+            )
+            (property
+              (rename ORDER "Order")
+              (integer 0)
+              (owner "OrCAD")
+            )
+          )
+          (port
+            (rename &2 "2")
+            (designator "2")
+            (property
+              (rename TYPE "Type")
+              (string "PAS")
+            )
+            (property
+              (rename ORDER "Order")
+              (integer 1)
+              (owner "OrCAD")
+            )
+          )
+          (symbol
+            (boundingBox (rectangle (pt -20000 -7000) (pt 20000 7000)))
+            (portImplementation
+              (name &2)
+              (keywordDisplay DESIGNATOR
+                (display PINNUMBER
+                  (justify CENTERLEFT)
+                  (orientation R0)
+                  (origin (pt 16062 0))
+                )
+              )
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt 20000 0)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt 20000 0)
+                    (pt 10000 0)
+                  )
+                )
+              )
+            )
+            (portImplementation
+              (name &1)
+              (keywordDisplay DESIGNATOR
+                (display PINNUMBER
+                  (justify CENTERRIGHT)
+                  (orientation R0)
+                  (origin (pt -16062 0))
+                )
+              )
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt -20000 0)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt -20000 0)
+                    (pt -10000 0)
+                  )
+                )
+              )
+            )
+            (figure PARTBODY
+              (path (pointList (pt 4000 0) (pt 10000 0)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -10000 0) (pt -4000 0)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -1500 6000) (pt -1500 -6000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -1500 -6000) (pt 1500 -6000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 1500 -6000) (pt 1500 6000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 1500 6000) (pt -1500 6000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 4000 7000) (pt 4000 -7000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -4000 7000) (pt -4000 -7000)))
+            )
+            (keywordDisplay DESIGNATOR
+              (display PARTBODY
+                (justify LOWERLEFT)
+                (orientation R0)
+                (origin (pt -10023 9021))
+              )
+            )
+            (propertyDisplay VALUE
+              (display PARTBODY
+                (justify LOWERLEFT)
+                (orientation R0)
+                (origin (pt -10037 -15056))
+              )
+            )
+            (property (rename PCB_Footprint "PCB Footprint") (string "XTAL500X320X130N"))
+            (property
+              (rename Price "Price")
+              (string
+              (stringDisplay "0.54 USD"))
+            )
+            (property
+              (rename Package "Package")
+              (string
+              (stringDisplay "SMD-2 Abracon"))
+            )
+            (property
+              (rename MF "MF")
+              (string
+              (stringDisplay "Abracon"))
+            )
+            (property
+              (rename Description "Description")
+              (string
+              (stringDisplay "
+Crystal 8MHz Ø·Â¢Ø¢Â±20ppm _Tol_ Ø·Â¢Ø¢Â±30ppm _Stability_ 18pF FUND 500Ohm 2-Pin CSMD T/R
+"))
+            )
+            (property
+              (rename Availability "Availability")
+              (string
+              (stringDisplay "Good"))
+            )
+            (property
+              (rename MP "MP")
+              (string
+              (stringDisplay "ABM3-8.000MHZ-D2Y-T"))
+            )
+          )
+        )
+      )
+    )
+  )
+)

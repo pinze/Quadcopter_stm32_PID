@@ -1,0 +1,76 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    IPC-D-356                                                        )
+(                                                                     )
+(    Software Version : 17.4S021                                      )
+(    Date/Time        : Tue Nov 16 19:50:48 2021                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Warning: String T_L60_100SL_200_M200_100 exceeds record length on line 37 at column 4
+Warning: String T_L60_105SL_210_M210_105 exceeds record length on line 38 at column 4
+Warning: String S_R30T114M30_114P30_114 exceeds record length on line 39 at column 4
+Warning: String S_R60T114M60_114P60_114 exceeds record length on line 40 at column 4
+Warning: String S_R229_190_M229_190_P229_19 exceeds record length on line 42 at column 4
+Warning: String S_R180_190_M180_190_P180_19 exceeds record length on line 43 at column 4
+Warning: String S_R195_295_M195_295_P195_29 exceeds record length on line 44 at column 4
+Warning: String S_R324_131_D1500_M324_131_P exceeds record length on line 45 at column 4
+Warning: String S_R93_131_D1500_M93_131_P93 exceeds record length on line 46 at column 4
+Warning: String S_R40_140_M40_140_P40_140 exceeds record length on line 47 at column 4
+Warning: String S_R190_200_M190_200_P190_20 exceeds record length on line 48 at column 4
+Warning: String S_R92_138_M92_138_P92_138 exceeds record length on line 53 at column 4
+Warning: String S_R28T156D5M28_156P28_156 exceeds record length on line 54 at column 4
+Warning: String S_R100T70M100_70P100_70 exceeds record length on line 55 at column 4
+Warning: String S_R130_190M130_190P130_190 exceeds record length on line 57 at column 4
+Warning: String S_R270_260M270_260P170_164 exceeds record length on line 59 at column 4
+Warning: String S_R85_35D2M85_35P85_35 exceeds record length on line 60 at column 4
+Warning: String S_R80_35D2M80_35P80_35 exceeds record length on line 61 at column 4
+Warning: String S_R240T210M240_210P240_210 exceeds record length on line 62 at column 4
+Warning: String S_R94T102D2M94_102P94_102 exceeds record length on line 63 at column 4
+Warning: String S_R80_80_M80_80_P80_80 exceeds record length on line 64 at column 4
+Warning: String S_R260T215M260_215P260_215 exceeds record length on line 65 at column 4
+Warning: String S_R114T145M114_145P114_145 exceeds record length on line 66 at column 4
+Warning: Found a mechanical pin at location (216.0150 137.2550) with no drill - skipping.
+Warning: Found a mechanical pin at location (215.5150 137.2550) with no drill - skipping.
+Warning: Found a mechanical pin at location (215.0150 137.2550) with no drill - skipping.
+Warning: Found a mechanical pin at location (214.5150 137.2550) with no drill - skipping.
+Warning: Found a mechanical pin at location (214.5150 133.2550) with no drill - skipping.
+Warning: Found a mechanical pin at location (215.2650 135.2550) with no drill - skipping.
+Warning: Found a mechanical pin at location (215.0150 133.2550) with no drill - skipping.
+Warning: Found a mechanical pin at location (215.5150 133.2550) with no drill - skipping.
+Warning: Found a mechanical pin at location (216.0150 133.2550) with no drill - skipping.
+Warning: String ST-LINK exceeds record length on line 99 at column 21
+Warning: String MPU6050 exceeds record length on line 110 at column 21
+Warning: String MPU6050 exceeds record length on line 115 at column 21
+Warning: String MPU6050 exceeds record length on line 138 at column 21
+Warning: String MPU6050 exceeds record length on line 146 at column 21
+Warning: String MPU6050 exceeds record length on line 152 at column 21
+Warning: String MPU6050 exceeds record length on line 158 at column 21
+Warning: String MPU6050 exceeds record length on line 159 at column 21
+Warning: String MPU6050 exceeds record length on line 161 at column 21
+Warning: String MPU6050 exceeds record length on line 162 at column 21
+Warning: String A1_B12 exceeds record length on line 176 at column 28
+Warning: String B1_A12 exceeds record length on line 179 at column 28
+Warning: String MPU6050 exceeds record length on line 221 at column 21
+Warning: String MPU6050 exceeds record length on line 223 at column 21
+Warning: String ST-LINK exceeds record length on line 242 at column 21
+Warning: String ST-LINK exceeds record length on line 261 at column 21
+Warning: String ST-LINK exceeds record length on line 263 at column 21
+Warning: String MPU6050 exceeds record length on line 288 at column 21
+Warning: String MPU6050 exceeds record length on line 291 at column 21
+Warning: String RECIVER exceeds record length on line 297 at column 21
+Warning: String RECIVER exceeds record length on line 299 at column 21
+Warning: String RECIVER exceeds record length on line 310 at column 21
+Warning: String RECIVER exceeds record length on line 312 at column 21
+Warning: String MPU6050 exceeds record length on line 323 at column 21
+Warning: String MPU6050 exceeds record length on line 324 at column 21
+Warning: String MPU6050 exceeds record length on line 325 at column 21
+Warning: String B4_A9 exceeds record length on line 326 at column 28
+Warning: String A4_B9 exceeds record length on line 327 at column 28
+
+
+------------------------------------------
+SUMMARY:
+  Errors:       0
+  Warnings:    60
