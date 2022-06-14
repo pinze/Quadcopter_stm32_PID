@@ -52,5 +52,8 @@ PID控制器的調整，我們可以透過EXCEL進行圖形化分析。透過圖
 
 # Finish Product  
 <div align=center>
-<img src="[https://user-images.githubusercontent.com/63340820/173550799-88655f4d-0950-4863-ad00-ab5a4242c7c4.png](https://user-images.githubusercontent.com/63340820/173565501-f2dd70fa-bcd4-4688-ab1f-b0884f4c0da5.png)"/>  
+<img src="https://user-images.githubusercontent.com/63340820/173565501-f2dd70fa-bcd4-4688-ab1f-b0884f4c0da5.png"/>  
 </div>  
+<div align=center>
+<img src="https://user-images.githubusercontent.com/63340820/173565694-7c7abbc4-065a-4710-80b0-bea19b05d4d0.png"/>  
+</div> 
