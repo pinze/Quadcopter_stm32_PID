@@ -10,10 +10,7 @@ Quadcopter flight controller project based on stm32f103C8T6.The goal of this pro
 # Theory and principle
 PID Controller Theory and Principle
 &nbsp; PID控制器基本工作原理為讀取感測器。再經由組成PID控制器的三種算法(比例、微分、積分)來修正誤差。PID控制器也是一種閉迴圈系統。並且PID控制器輸出為這三種算法相加之後的結果，輸入為其誤差值。若定義u(t)為控制輸出，PID演算法可以用下式表示：  
-<div style="text-align: center">
-<img src="url"/>
-</div>
-<![image](https://user-images.githubusercontent.com/63340820/173550151-03a266da-7d05-40c6-9c01-24ec0528f51a.png)>
+<center><![image](https://user-images.githubusercontent.com/63340820/173550151-03a266da-7d05-40c6-9c01-24ec0528f51a.png)></center>
 其中Kp為比例增益、Ki為積分增益、Kd為微分增益、e(t)為回授值與設定值之間的誤差、t為時間常數。在PID控制系統中，控制迴路可以分成以下三個部份:  
 1. 感測器量測的結果
 2. 控制器決策
