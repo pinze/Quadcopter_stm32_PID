@@ -44,10 +44,13 @@ PID控制器的調整，我們可以透過EXCEL進行圖形化分析。透過圖
 <img src="https://user-images.githubusercontent.com/63340820/173550848-0d764636-d4c8-4630-b7e0-faa017166d42.png"/>  
 </div>  
 
-## Flight principle
+## Flight Principle
 &nbsp; 四軸飛行器為運用四組對稱大小、長寬相等的旋翼所驅動，每組旋翼與對側旋翼為一組，與其他旋翼產生反扭矩互相作用達到平衡，如圖所示。  
 &nbsp; 如圖所示，當想向前移動時2、3增加油門1、4降低油門，向後移動時反之。當想水平順時針轉動時，1、3增加油門2、4降低油門，逆時針轉動時反之。當想水平右移時，3、4增加油門，1、2降低油門，向左則反之。實際情況如下圖所示。  
 ![image](https://user-images.githubusercontent.com/63340820/173564852-50c33ddb-a435-49bb-b8e7-fc6192fd04df.png)
 ![image](https://user-images.githubusercontent.com/63340820/173565206-a5cc3321-2624-4590-8032-238eb9d5ef86.png)  
 
-
+# Finish Product  
+<div align=center>
+<img src="[https://user-images.githubusercontent.com/63340820/173550799-88655f4d-0950-4863-ad00-ab5a4242c7c4.png](https://user-images.githubusercontent.com/63340820/173565501-f2dd70fa-bcd4-4688-ab1f-b0884f4c0da5.png)"/>  
+</div>  
