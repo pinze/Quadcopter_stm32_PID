@@ -8,7 +8,7 @@ Quadcopter flight controller project based on stm32f103C8T6.The goal of this pro
 &nbsp; This topic uses the ARM controller to make a quadcopter. After setting the GPIO through STM32CubeMX, use Keil to plan the program and realize the Quadcopter, and use OrCAD and Allegro to design the PCB board to integrate the circuit of this topic, and produce a set of flight controller.  
 &nbsp; After the training of this topic, you can not only learn to write and plan code, but also design a set of products by yourself. Through one-stop special production and implementation, you will gain the ability to discover and solve problems. You can also use this special study to communicate with teachers, solve problems encountered, and gain more experience and methods.  
 # Theory and principle
-PID Controller Theory and Principle
+## PID Controller Theory and Principle
 &nbsp; PID控制器基本工作原理為讀取感測器。再經由組成PID控制器的三種算法(比例、微分、積分)來修正誤差。PID控制器也是一種閉迴圈系統。並且PID控制器輸出為這三種算法相加之後的結果，輸入為其誤差值。若定義u(t)為控制輸出，PID演算法可以用下式表示： 
 <div align=center>
 <img src="https://user-images.githubusercontent.com/63340820/173550151-03a266da-7d05-40c6-9c01-24ec0528f51a.png"/>  
@@ -43,3 +43,11 @@ PID控制器的調整，我們可以透過EXCEL進行圖形化分析。透過圖
 <div align=center>
 <img src="https://user-images.githubusercontent.com/63340820/173550848-0d764636-d4c8-4630-b7e0-faa017166d42.png"/>  
 </div>  
+
+## Flight principle
+&nbsp; 四軸飛行器為運用四組對稱大小、長寬相等的旋翼所驅動，每組旋翼與對側旋翼為一組，與其他旋翼產生反扭矩互相作用達到平衡，如圖所示。  
+&nbsp; 如圖所示，當想向前移動時2、3增加油門1、4降低油門，向後移動時反之。當想水平順時針轉動時，1、3增加油門2、4降低油門，逆時針轉動時反之。當想水平右移時，3、4增加油門，1、2降低油門，向左則反之。實際情況如下圖所示。  
+![image](https://user-images.githubusercontent.com/63340820/173564852-50c33ddb-a435-49bb-b8e7-fc6192fd04df.png)
+![image](https://user-images.githubusercontent.com/63340820/173564885-17790b1c-62e3-456b-a8b2-fa033d5a24bd.png)  
+
+
