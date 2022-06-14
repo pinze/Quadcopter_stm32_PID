@@ -8,7 +8,7 @@ Quadcopter flight controller project based on stm32f103C8T6.The goal of this pro
 &nbsp; This topic uses the ARM controller to make a quadcopter. After setting the GPIO through STM32CubeMX, use Keil to plan the program and realize the Quadcopter, and use OrCAD and Allegro to design the PCB board to integrate the circuit of this topic, and produce a set of flight controller.  
 &nbsp; After the training of this topic, you can not only learn to write and plan code, but also design a set of products by yourself. Through one-stop special production and implementation, you will gain the ability to discover and solve problems. You can also use this special study to communicate with teachers, solve problems encountered, and gain more experience and methods.  
 # Theory and principle
-## PID Controller Theory and Principle
+== PID Controller Theory and Principle
 &nbsp; PID控制器基本工作原理為讀取感測器。再經由組成PID控制器的三種算法(比例、微分、積分)來修正誤差。PID控制器也是一種閉迴圈系統。並且PID控制器輸出為這三種算法相加之後的結果，輸入為其誤差值。若定義u(t)為控制輸出，PID演算法可以用下式表示(1)：
 ![image](https://user-images.githubusercontent.com/63340820/173550151-03a266da-7d05-40c6-9c01-24ec0528f51a.png)
 其中Kp為比例增益、Ki為積分增益、Kd為微分增益、e(t)為回授值與設定值之間的誤差、t為時間常數。在PID控制系統中，控制迴路可以分成以下三個部份:
